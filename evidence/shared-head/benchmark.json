@@ -1,0 +1,264 @@
+{
+  "completed": true,
+  "scope": "PC float forward plus CUDA synchronization on one fixed six-camera/roof-LiDAR input; preprocessing, FCOS, host copying and CPU line connection excluded",
+  "gpu": "NVIDIA GeForce RTX 4090 D",
+  "torch": "2.8.0+cu128",
+  "numpy": "1.23.0",
+  "warmup": 200,
+  "iterations": 1000,
+  "torch_threads": 4,
+  "source_manifest_sha256": "0a1cc44a078b5a804ec8e93418b187cbe9bee12c595bc160c933dfccbf01d54e",
+  "shared_checkpoint_sha256": "08ecd965836df53b361153e5aecceb68713ff6b3edfa8c8cba03eaa6c53f4733",
+  "versions_match": true,
+  "raw_timing_checks": {
+    "RB": true,
+    "R0": true,
+    "R1": true,
+    "R0-view0": true,
+    "R0-view3": true
+  },
+  "load_samples": 123,
+  "other_containers": [],
+  "methods": {
+    "RB": {
+      "work_views": [],
+      "encoder_views_per_call": [
+        6
+      ],
+      "total_parameters": 24296421,
+      "peak_allocated_bytes": 864843776,
+      "allocated_before_bytes": 143224832,
+      "forward_p50_p95_p99_ms": [
+        35.979335999400064,
+        38.12432389904643,
+        39.58108510081729
+      ],
+      "forward_mean_ms": 36.00578220795978,
+      "process_cpu_s": 65.2197786
+    },
+    "R0": {
+      "work_views": [
+        0,
+        3
+      ],
+      "encoder_views_per_call": [
+        6
+      ],
+      "total_parameters": 24327084,
+      "peak_allocated_bytes": 864970240,
+      "allocated_before_bytes": 143351296,
+      "forward_p50_p95_p99_ms": [
+        36.70123049960239,
+        38.866210599826445,
+        40.407292919098836
+      ],
+      "forward_mean_ms": 36.699371141989104,
+      "process_cpu_s": 65.8998421
+    },
+    "R1": {
+      "work_views": [
+        0,
+        3
+      ],
+      "encoder_views_per_call": [
+        6,
+        2
+      ],
+      "total_parameters": 31941228,
+      "peak_allocated_bytes": 895043072,
+      "allocated_before_bytes": 174201344,
+      "forward_p50_p95_p99_ms": [
+        39.66063349889737,
+        41.9957919510125,
+        43.50418599926343
+      ],
+      "forward_mean_ms": 39.62549418099479,
+      "process_cpu_s": 68.89375249999999
+    },
+    "R0-view0": {
+      "work_views": [
+        0
+      ],
+      "encoder_views_per_call": [
+        6
+      ],
+      "total_parameters": 24327084,
+      "peak_allocated_bytes": 864970240,
+      "allocated_before_bytes": 143351296,
+      "forward_p50_p95_p99_ms": [
+        36.76431449912343,
+        39.49798700014071,
+        40.999434260465925
+      ],
+      "forward_mean_ms": 36.86913908801398,
+      "process_cpu_s": 66.0353405
+    },
+    "R0-view3": {
+      "work_views": [
+        3
+      ],
+      "encoder_views_per_call": [
+        6
+      ],
+      "total_parameters": 24327084,
+      "peak_allocated_bytes": 864970240,
+      "allocated_before_bytes": 143351296,
+      "forward_p50_p95_p99_ms": [
+        36.98177749993192,
+        39.475162100188754,
+        40.59486212931006
+      ],
+      "forward_mean_ms": 37.07795353197071,
+      "process_cpu_s": 66.1766236
+    }
+  },
+  "new_head_parameters": 30663,
+  "extra_encoder_parameters": 7614144,
+  "new_head_forward_p50_ms": 0.7218945002023247,
+  "sharing_forward_p50_saved_ms": 2.95940299929498,
+  "sharing_peak_allocated_saved_bytes": 30072832,
+  "inherited_outputs": {
+    "R0": {
+      "occ_labels": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "occ_scores": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "outputs_classes": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "outputs_coords": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "reference_out": {
+        "exact": true,
+        "max_abs": 0.0
+      }
+    },
+    "R1": {
+      "occ_labels": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "occ_scores": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "outputs_classes": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "outputs_coords": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "reference_out": {
+        "exact": true,
+        "max_abs": 0.0
+      }
+    },
+    "R0-view0": {
+      "occ_labels": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "occ_scores": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "outputs_classes": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "outputs_coords": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "reference_out": {
+        "exact": true,
+        "max_abs": 0.0
+      }
+    },
+    "R0-view3": {
+      "occ_labels": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "occ_scores": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "outputs_classes": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "outputs_coords": {
+        "exact": true,
+        "max_abs": 0.0
+      },
+      "reference_out": {
+        "exact": true,
+        "max_abs": 0.0
+      }
+    }
+  },
+  "curb_output_comparisons": {
+    "R1": [
+      {
+        "view": 0,
+        "baseline_candidates": 235,
+        "comparison_candidates": 235,
+        "bidirectional_nearest_max_px": 0.0008245395560367612,
+        "slots_exact": false
+      },
+      {
+        "view": 3,
+        "baseline_candidates": 217,
+        "comparison_candidates": 217,
+        "bidirectional_nearest_max_px": 0.0006720799421858288,
+        "slots_exact": false
+      }
+    ],
+    "R0-view0": [
+      {
+        "view": 0,
+        "baseline_candidates": 235,
+        "comparison_candidates": 235,
+        "bidirectional_nearest_max_px": 0.0013784523505944012,
+        "slots_exact": false
+      }
+    ],
+    "R0-view3": [
+      {
+        "view": 3,
+        "baseline_candidates": 217,
+        "comparison_candidates": 217,
+        "bidirectional_nearest_max_px": 0.001337561462451851,
+        "slots_exact": false
+      }
+    ]
+  },
+  "earlier_run": "benchmark-01 records changing concurrent CARLA load; retained for traceability, final latency table uses benchmark-02",
+  "source_sha256": {
+    "benchmark-02/RB/forward-seconds.npy": "ba90fdbd770843daa814fc3678c9108d870d341e99c0875e61bbb7e2051b0c49",
+    "benchmark-02/RB/outputs.npz": "0c51c457128c9b9b1baee18fae2e8147ecdce1cc6c44e1df21fd1f49f2f5fffc",
+    "benchmark-02/RB/result.json": "114ff92e03769e836e974cbccdd472103de7a96d1c934fc1868757ba0173acaa",
+    "benchmark-02/R0/forward-seconds.npy": "eb19a609e227a121d1a1860589d1f7e587291c575086c301dd8b098b0eac2899",
+    "benchmark-02/R0/outputs.npz": "669bb9acc96e7c432fadc3eebc5fa20b60d8fe04ec783f9ffebef34b0b6b8c8f",
+    "benchmark-02/R0/result.json": "a92bf705266b1e9907163f48a569aff910643b2bcbbfb386c685b78aa35e1c32",
+    "benchmark-02/R1/forward-seconds.npy": "53f90aed2a2562115ec075bc2a8d6965383d9e31e13ddd2992183096b3cb5c76",
+    "benchmark-02/R1/outputs.npz": "b0e28f76dc7f5d058bcf7cd8b523f5f71725b0ea8e4b33aa4f97476a5fe16d19",
+    "benchmark-02/R1/result.json": "b007293dba38376c054ee47ba40793af9cc379e6a0cb9ff6aef266f84c2d5b73",
+    "benchmark-02/R0-view0/forward-seconds.npy": "d7f0805f031d4267140ebd497669a56f53a87c10d73a842fd67886e30c28b955",
+    "benchmark-02/R0-view0/outputs.npz": "66de996a2b056fef62811899d48808e091b8b3e0d2599f91448a30a2ec4305af",
+    "benchmark-02/R0-view0/result.json": "fb64b725be2b8567460cf70954dfad59cbac361313adf99988d5a27bcd9cce0b",
+    "benchmark-02/R0-view3/forward-seconds.npy": "d8f0a817c0cc2d2485e6d3227af5ae5f7b490b3efe18c6c9842d97f7748bd219",
+    "benchmark-02/R0-view3/outputs.npz": "24c59514ff3157604840897063ef952a155eadb9a2c40d253c934c3a093973d5",
+    "benchmark-02/R0-view3/result.json": "f506bb361d31e3af65ede249af7eb51bf84aed5a6fbe34ff1156a5105dc78c93"
+  }
+}

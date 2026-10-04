@@ -1,0 +1,88 @@
+{
+  "passed": true,
+  "scope": "CARLA independent scenario and score; not algorithm inputs",
+  "ego_actor": 197,
+  "autopilot_used": false,
+  "scenario": "static-vehicle",
+  "heal_pause_fault": {
+    "enabled": false,
+    "passed": false,
+    "phase": "waiting"
+  },
+  "obstacle_stop": {
+    "sim_time_s": 20.269269946962595,
+    "progress_m": 3.0228282500592645,
+    "gap_m": 5.006113219070501,
+    "reason": "predicted_path_conflict",
+    "speed_mps": 1.9840585190059396e-06,
+    "inference_count": 42
+  },
+  "obstacle_cleared": {
+    "sim_time_s": 20.269269946962595,
+    "progress_m": 3.0228282500592645,
+    "mode": "removed_after_stop"
+  },
+  "loop_result": {
+    "passed": true,
+    "scope": "PC sensor-driven straight-road obstacle stop/resume loop",
+    "autopilot": false,
+    "actor_pose_input": false,
+    "curb_brushing": false,
+    "bpu_executed": false,
+    "reference_source": "measured_curb",
+    "progress_m": 13.927521287383037,
+    "counts": {
+      "inferred": 140,
+      "detection_callbacks": 140,
+      "track_callbacks": 151,
+      "object_stop_cycles": 0,
+      "geometry_stop_cycles": 0,
+      "prediction_stop_cycles": 26,
+      "outside_prediction_stop_cycles": 0,
+      "controls": 434
+    },
+    "final_reason": "goal",
+    "perception_io_stopped": true,
+    "perception_io_error": null,
+    "world_input_stopped": true,
+    "world_input_error": null,
+    "curb_input_stopped": true,
+    "curb_input_error": null,
+    "diagnostics": {
+      "pending_records": 0,
+      "dropped_records": 0,
+      "complete": true
+    }
+  },
+  "final_speed_mps": 6.32342616277513e-05,
+  "final_progress_m": 13.89480189621639,
+  "resumed_after_removal": true,
+  "max_lateral_m": 0.11199547338440045,
+  "max_speed_mps": 0.5866137727316607,
+  "min_obstacle_gap_m": 4.984995095706068,
+  "collisions": [],
+  "elapsed_sim_s": 45.51166285574436,
+  "perception": {
+    "scope": "Single fixed test actor, time-aligned independent evaluator; not dataset mAP",
+    "expected_autoware_label": 1,
+    "detections": {
+      "frames": 45,
+      "matched": 45,
+      "matched_fraction": 1.0,
+      "center_error_median_m": 0.31814469050370225,
+      "center_error_max_m": 0.47743972830844045,
+      "unique_track_ids": []
+    },
+    "tracks": {
+      "frames": 45,
+      "matched": 44,
+      "matched_fraction": 0.9777777777777777,
+      "center_error_median_m": 0.32004948408673295,
+      "center_error_max_m": 0.46718654350990757,
+      "unique_track_ids": [
+        "0300000000000000eb4c59e9a07a989d"
+      ]
+    }
+  },
+  "recognition_passed": true
+}

@@ -1,0 +1,4766 @@
+{
+  "source": "/mnt/e/horizon/清扫机器人/work/20260914-exterior-v7/Exterior-v7.blend",
+  "source_sha256": "4217c4ec8efe8bd8323be91d1b9f3a566b1922d0445ee17886510e2c80549d3e",
+  "source_unchanged": true,
+  "brush_components": [
+    "WDDQ20-2100000-1/WDWG02-0000004-1",
+    "WDDQ20-2200000-1/WDWG02-0000007-1",
+    "WDDQ20-2200000-1/WDWG02-0000007-3",
+    "WDDQ20-2300000-2/WDWG02-0000007-1",
+    "WDDQ20-2400000-1/WDWG02-0000007-1"
+  ],
+  "rows": [
+    {
+      "source": "R2_000_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200002-2",
+      "bone": "Vehicle_Base",
+      "before": 2308,
+      "after": 553
+    },
+    {
+      "source": "R2_001_切除-拉伸7",
+      "component": "WDDQ20-1000000-1/电池盒-5",
+      "bone": "Vehicle_Base",
+      "before": 1420,
+      "after": 340
+    },
+    {
+      "source": "R2_002_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDWG01-0000003D-1",
+      "bone": "Vehicle_Base",
+      "before": 548,
+      "after": 548
+    },
+    {
+      "source": "R2_003_旋转1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDWG01-0000003F-1",
+      "bone": "Vehicle_Base",
+      "before": 2072,
+      "after": 497
+    },
+    {
+      "source": "R2_004_切除-拉伸2",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDWG01-0000003A-1",
+      "bone": "Vehicle_Base",
+      "before": 10664,
+      "after": 2559
+    },
+    {
+      "source": "R2_005_凸台-拉伸3",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDWG01-0000003B-1",
+      "bone": "Vehicle_Base",
+      "before": 472,
+      "after": 472
+    },
+    {
+      "source": "R2_006_凸台-拉伸3",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDWG01-0000003C-1",
+      "bone": "Vehicle_Base",
+      "before": 228,
+      "after": 228
+    },
+    {
+      "source": "R2_007_凸台-拉伸2",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDWG01-0000003C-1",
+      "bone": "Vehicle_Base",
+      "before": 792,
+      "after": 792
+    },
+    {
+      "source": "R2_008_凸台-拉伸3",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDWG01-0000003C-2",
+      "bone": "Vehicle_Base",
+      "before": 228,
+      "after": 228
+    },
+    {
+      "source": "R2_009_凸台-拉伸2",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDWG01-0000003C-2",
+      "bone": "Vehicle_Base",
+      "before": 792,
+      "after": 792
+    },
+    {
+      "source": "R2_010_M10 螺纹孔1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDWG01-0000003E-1",
+      "bone": "Vehicle_Base",
+      "before": 5600,
+      "after": 1344
+    },
+    {
+      "source": "R2_011_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDWG01-0000003G-1",
+      "bone": "Vehicle_Base",
+      "before": 432,
+      "after": 432
+    },
+    {
+      "source": "R2_012_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-4/WDDQ20-1000034-1",
+      "bone": "Vehicle_Base",
+      "before": 424,
+      "after": 424
+    },
+    {
+      "source": "R2_013_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000001-3",
+      "bone": "Vehicle_Base",
+      "before": 7460,
+      "after": 1790
+    },
+    {
+      "source": "R2_014_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000001-4",
+      "bone": "Vehicle_Base",
+      "before": 7460,
+      "after": 1790
+    },
+    {
+      "source": "R2_015_旋转1",
+      "component": "WDDQ20-1000000-1/WDWG02-0000006-2",
+      "bone": "Wheel_Rear_Left",
+      "before": 6312,
+      "after": 1514
+    },
+    {
+      "source": "R2_016_切除-拉伸7",
+      "component": "WDDQ20-1000000-1/电池盒-4",
+      "bone": "Vehicle_Base",
+      "before": 1420,
+      "after": 340
+    },
+    {
+      "source": "R2_017_切除-拉伸7",
+      "component": "WDDQ20-1000000-1/电池盒-6",
+      "bone": "Vehicle_Base",
+      "before": 1420,
+      "after": 340
+    },
+    {
+      "source": "R2_018_切除-拉伸7",
+      "component": "WDDQ20-1000000-1/电池盒-1",
+      "bone": "Vehicle_Base",
+      "before": 1420,
+      "after": 340
+    },
+    {
+      "source": "R2_019_切除-拉伸7",
+      "component": "WDDQ20-1000000-1/电池盒-3",
+      "bone": "Vehicle_Base",
+      "before": 1420,
+      "after": 340
+    },
+    {
+      "source": "R2_020_边线-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1000035-1",
+      "bone": "Vehicle_Base",
+      "before": 318,
+      "after": 318
+    },
+    {
+      "source": "R2_021_R2_FeedbackFloor_0",
+      "component": "WDDQ20-1000000-1/WDDQ20-1000037-1",
+      "bone": "Vehicle_Base",
+      "before": 224,
+      "after": 224
+    },
+    {
+      "source": "R2_022_基体-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610002-1",
+      "bone": "Vehicle_Base",
+      "before": 252,
+      "after": 252
+    },
+    {
+      "source": "R2_023_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610009-4",
+      "bone": "Vehicle_Base",
+      "before": 288,
+      "after": 288
+    },
+    {
+      "source": "R2_024_基体-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610001-1",
+      "bone": "Vehicle_Base",
+      "before": 124,
+      "after": 124
+    },
+    {
+      "source": "R2_025_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/合页-2/合页1-1",
+      "bone": "Vehicle_Base",
+      "before": 208,
+      "after": 208
+    },
+    {
+      "source": "R2_026_倒角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/合页-2/合页2-1",
+      "bone": "Vehicle_Base",
+      "before": 254,
+      "after": 254
+    },
+    {
+      "source": "R2_027_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610003-1",
+      "bone": "Vehicle_Base",
+      "before": 268,
+      "after": 268
+    },
+    {
+      "source": "R2_028_基体-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610006-1",
+      "bone": "Vehicle_Base",
+      "before": 76,
+      "after": 76
+    },
+    {
+      "source": "R2_029_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610009-3",
+      "bone": "Vehicle_Base",
+      "before": 288,
+      "after": 288
+    },
+    {
+      "source": "R2_030_拉伸-薄壁1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610005-1",
+      "bone": "Vehicle_Base",
+      "before": 376,
+      "after": 376
+    },
+    {
+      "source": "R2_031_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/合页-1/合页1-1",
+      "bone": "Vehicle_Base",
+      "before": 208,
+      "after": 208
+    },
+    {
+      "source": "R2_032_倒角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/合页-1/合页2-1",
+      "bone": "Vehicle_Base",
+      "before": 254,
+      "after": 254
+    },
+    {
+      "source": "R2_033_基体-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610004-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_034_圆角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610008-1",
+      "bone": "Vehicle_Base",
+      "before": 116,
+      "after": 116
+    },
+    {
+      "source": "R2_035_圆角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610008-2",
+      "bone": "Vehicle_Base",
+      "before": 116,
+      "after": 116
+    },
+    {
+      "source": "R2_036_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610007-4",
+      "bone": "Vehicle_Base",
+      "before": 288,
+      "after": 288
+    },
+    {
+      "source": "R2_037_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/水-1",
+      "bone": "Vehicle_Base",
+      "before": 116,
+      "after": 116
+    },
+    {
+      "source": "R2_038_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1610000-1/WDDQ20-1610007-5",
+      "bone": "Vehicle_Base",
+      "before": 288,
+      "after": 288
+    },
+    {
+      "source": "R2_039_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDWG01-0000003D-1",
+      "bone": "Vehicle_Base",
+      "before": 548,
+      "after": 548
+    },
+    {
+      "source": "R2_040_旋转1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDWG01-0000003F-1",
+      "bone": "Vehicle_Base",
+      "before": 2072,
+      "after": 497
+    },
+    {
+      "source": "R2_041_切除-拉伸2",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDWG01-0000003A-1",
+      "bone": "Vehicle_Base",
+      "before": 10664,
+      "after": 2559
+    },
+    {
+      "source": "R2_042_凸台-拉伸3",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDWG01-0000003B-1",
+      "bone": "Vehicle_Base",
+      "before": 472,
+      "after": 472
+    },
+    {
+      "source": "R2_043_凸台-拉伸3",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDWG01-0000003C-1",
+      "bone": "Vehicle_Base",
+      "before": 228,
+      "after": 228
+    },
+    {
+      "source": "R2_044_凸台-拉伸2",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDWG01-0000003C-1",
+      "bone": "Vehicle_Base",
+      "before": 792,
+      "after": 792
+    },
+    {
+      "source": "R2_045_凸台-拉伸3",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDWG01-0000003C-2",
+      "bone": "Vehicle_Base",
+      "before": 228,
+      "after": 228
+    },
+    {
+      "source": "R2_046_凸台-拉伸2",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDWG01-0000003C-2",
+      "bone": "Vehicle_Base",
+      "before": 792,
+      "after": 792
+    },
+    {
+      "source": "R2_047_M10 螺纹孔1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDWG01-0000003E-1",
+      "bone": "Vehicle_Base",
+      "before": 5600,
+      "after": 1344
+    },
+    {
+      "source": "R2_048_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDWG01-0000003G-1",
+      "bone": "Vehicle_Base",
+      "before": 432,
+      "after": 432
+    },
+    {
+      "source": "R2_049_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000003-3/WDDQ20-1000034-1",
+      "bone": "Vehicle_Base",
+      "before": 424,
+      "after": 424
+    },
+    {
+      "source": "R2_050_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1000033-1",
+      "bone": "Vehicle_Base",
+      "before": 1170,
+      "after": 280
+    },
+    {
+      "source": "R2_051_切除-拉伸7",
+      "component": "WDDQ20-1000000-1/电池盒-2",
+      "bone": "Vehicle_Base",
+      "before": 1420,
+      "after": 340
+    },
+    {
+      "source": "R2_052_边线-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1000036-1",
+      "bone": "Vehicle_Base",
+      "before": 316,
+      "after": 316
+    },
+    {
+      "source": "R2_053_旋转1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/50滚轮-2",
+      "bone": "Vehicle_Base",
+      "before": 3648,
+      "after": 875
+    },
+    {
+      "source": "R2_054_旋转1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/50滚轮-1",
+      "bone": "Vehicle_Base",
+      "before": 3648,
+      "after": 875
+    },
+    {
+      "source": "R2_055_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710006-1",
+      "bone": "Vehicle_Base",
+      "before": 4888,
+      "after": 1173
+    },
+    {
+      "source": "R2_056_凸台-拉伸1[2]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 168,
+      "after": 168
+    },
+    {
+      "source": "R2_057_镜向1[4]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 168,
+      "after": 168
+    },
+    {
+      "source": "R2_058_基体-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 452,
+      "after": 452
+    },
+    {
+      "source": "R2_059_镜向1[1]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 774,
+      "after": 774
+    },
+    {
+      "source": "R2_060_阵列(线性)1[1]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 168,
+      "after": 168
+    },
+    {
+      "source": "R2_061_镜向1[5]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 168,
+      "after": 168
+    },
+    {
+      "source": "R2_062_边线-法兰3",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 774,
+      "after": 774
+    },
+    {
+      "source": "R2_063_镜向1[2]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "R2_064_凸台-拉伸1[1]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "R2_065_阵列(线性)1[2]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "R2_066_镜向1[3]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/WDDQ20-1710000-1",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "R2_067_旋转1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/50滚轮-3",
+      "bone": "Vehicle_Base",
+      "before": 3648,
+      "after": 875
+    },
+    {
+      "source": "R2_068_旋转1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1700000-1/50滚轮-4",
+      "bone": "Vehicle_Base",
+      "before": 3648,
+      "after": 875
+    },
+    {
+      "source": "R2_069_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1420000-1/WDDQ20-1420004-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_070_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1420000-1/WDDQ20-1420001-2",
+      "bone": "Vehicle_Base",
+      "before": 2488,
+      "after": 597
+    },
+    {
+      "source": "R2_071_旋转1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1420000-1/WDDQ20-1420002-1",
+      "bone": "Vehicle_Base",
+      "before": 920,
+      "after": 220
+    },
+    {
+      "source": "R2_072_M8 螺纹孔1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1420000-1/WDDQ20-1420003-1",
+      "bone": "Vehicle_Base",
+      "before": 700,
+      "after": 700
+    },
+    {
+      "source": "R2_073_倒角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/圆螺母16-1",
+      "bone": "Vehicle_Base",
+      "before": 464,
+      "after": 464
+    },
+    {
+      "source": "R2_074_凸台-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1410000-1",
+      "bone": "Vehicle_Base",
+      "before": 72,
+      "after": 72
+    },
+    {
+      "source": "R2_075_R2_StopCap_Dowel_0.015_0",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1410000-1",
+      "bone": "Vehicle_Base",
+      "before": 986,
+      "after": 236
+    },
+    {
+      "source": "R2_076_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1410000-1",
+      "bone": "Vehicle_Base",
+      "before": 532,
+      "after": 532
+    },
+    {
+      "source": "R2_077_镜向1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1410000-1",
+      "bone": "Vehicle_Base",
+      "before": 72,
+      "after": 72
+    },
+    {
+      "source": "R2_078_圆角2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/止动垫圈16-1",
+      "bone": "Vehicle_Base",
+      "before": 464,
+      "after": 464
+    },
+    {
+      "source": "R2_079_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDWG01-0000001-2",
+      "bone": "Vehicle_Base",
+      "before": 7460,
+      "after": 1790
+    },
+    {
+      "source": "R2_080_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400002-1",
+      "bone": "Vehicle_Base",
+      "before": 392,
+      "after": 392
+    },
+    {
+      "source": "R2_081_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400005-1",
+      "bone": "Vehicle_Base",
+      "before": 432,
+      "after": 432
+    },
+    {
+      "source": "R2_082_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDWG01-0000001-1",
+      "bone": "Vehicle_Base",
+      "before": 7460,
+      "after": 1790
+    },
+    {
+      "source": "R2_083_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400005-2",
+      "bone": "Vehicle_Base",
+      "before": 432,
+      "after": 432
+    },
+    {
+      "source": "R2_084_旋转2[3]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDWG01-0000004-1",
+      "bone": "Vehicle_Base",
+      "before": 2612,
+      "after": 626
+    },
+    {
+      "source": "R2_085_倒角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDWG01-0000004-1",
+      "bone": "Vehicle_Base",
+      "before": 320,
+      "after": 320
+    },
+    {
+      "source": "R2_086_旋转2[1]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDWG01-0000004-1",
+      "bone": "Vehicle_Base",
+      "before": 2674,
+      "after": 641
+    },
+    {
+      "source": "R2_087_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDWG01-0000004-1",
+      "bone": "Vehicle_Base",
+      "before": 2756,
+      "after": 661
+    },
+    {
+      "source": "R2_088_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400001-1",
+      "bone": "Vehicle_Base",
+      "before": 400,
+      "after": 400
+    },
+    {
+      "source": "R2_089_圆角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400004-1",
+      "bone": "Vehicle_Base",
+      "before": 722,
+      "after": 722
+    },
+    {
+      "source": "R2_090_旋转1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDWG02-0000006-1",
+      "bone": "Wheel_Front_Left",
+      "before": 6312,
+      "after": 1514
+    },
+    {
+      "source": "R2_091_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400003-1",
+      "bone": "Vehicle_Base",
+      "before": 804,
+      "after": 192
+    },
+    {
+      "source": "R2_092_倒角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/圆螺母50-1",
+      "bone": "Vehicle_Base",
+      "before": 584,
+      "after": 584
+    },
+    {
+      "source": "R2_093_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400005-4",
+      "bone": "Vehicle_Base",
+      "before": 432,
+      "after": 432
+    },
+    {
+      "source": "R2_094_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400005-3",
+      "bone": "Vehicle_Base",
+      "before": 432,
+      "after": 432
+    },
+    {
+      "source": "R2_095_旋转1[2]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/32910-1",
+      "bone": "Vehicle_Base",
+      "before": 1806,
+      "after": 433
+    },
+    {
+      "source": "R2_096_旋转1[1]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/32910-1",
+      "bone": "Vehicle_Base",
+      "before": 1842,
+      "after": 442
+    },
+    {
+      "source": "R2_097_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400009-1",
+      "bone": "Vehicle_Base",
+      "before": 1348,
+      "after": 323
+    },
+    {
+      "source": "R2_098_旋转1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/6010-1",
+      "bone": "Vehicle_Base",
+      "before": 6244,
+      "after": 1498
+    },
+    {
+      "source": "R2_099_M8 螺纹孔1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400006-1",
+      "bone": "Vehicle_Base",
+      "before": 1668,
+      "after": 400
+    },
+    {
+      "source": "R2_100_旋转1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400007-1",
+      "bone": "Vehicle_Base",
+      "before": 700,
+      "after": 700
+    },
+    {
+      "source": "R2_101_圆角2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/止动垫圈50-1",
+      "bone": "Vehicle_Base",
+      "before": 536,
+      "after": 536
+    },
+    {
+      "source": "R2_102_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400008-1",
+      "bone": "Vehicle_Base",
+      "before": 384,
+      "after": 384
+    },
+    {
+      "source": "R2_103_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1400000-1/WDDQ20-1400010-1",
+      "bone": "Vehicle_Base",
+      "before": 532,
+      "after": 532
+    },
+    {
+      "source": "R2_104_圆角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1800000-1/WDDQ20-1800004-1",
+      "bone": "Vehicle_Base",
+      "before": 312,
+      "after": 312
+    },
+    {
+      "source": "R2_105_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1800000-1/WDDQ20-1800001-1",
+      "bone": "Vehicle_Base",
+      "before": 232,
+      "after": 232
+    },
+    {
+      "source": "R2_106_M10 螺纹孔1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1800000-1/WDDQ20-1810000-1/WDDQ20-1810002-1",
+      "bone": "Vehicle_Base",
+      "before": 206,
+      "after": 206
+    },
+    {
+      "source": "R2_107_基体-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1800000-1/WDDQ20-1810000-1/WDDQ20-1810001-1",
+      "bone": "Vehicle_Base",
+      "before": 1164,
+      "after": 279
+    },
+    {
+      "source": "R2_108_切除-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1800000-1/WDDQ20-1800002-1",
+      "bone": "Vehicle_Base",
+      "before": 630,
+      "after": 630
+    },
+    {
+      "source": "R2_109_圆角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1800000-1/WDDQ20-1800003-1",
+      "bone": "Vehicle_Base",
+      "before": 328,
+      "after": 328
+    },
+    {
+      "source": "R2_110_R2_BowdenWeb_-1_0",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 384,
+      "after": 384
+    },
+    {
+      "source": "R2_111_R2_BowdenWeb_1_0",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 380,
+      "after": 380
+    },
+    {
+      "source": "R2_112_凸台-拉伸4",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 444,
+      "after": 444
+    },
+    {
+      "source": "R2_113_R2_BinMouthRigidRelief_3",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 2086,
+      "after": 500
+    },
+    {
+      "source": "R2_114_R2_BinRearLip_1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 1936,
+      "after": 464
+    },
+    {
+      "source": "R2_115_凸台-拉伸3",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 444,
+      "after": 444
+    },
+    {
+      "source": "R2_116_R2_BinMouthRigidRelief_2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 2032,
+      "after": 487
+    },
+    {
+      "source": "R2_117_拉伸-薄壁2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 164,
+      "after": 164
+    },
+    {
+      "source": "R2_118_R2_BinMouthRigidRelief_1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 484,
+      "after": 484
+    },
+    {
+      "source": "R2_119_镜向1[3]",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 200,
+      "after": 200
+    },
+    {
+      "source": "R2_120_R2_BinMouthRigidRelief_0",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 28,
+      "after": 28
+    },
+    {
+      "source": "R2_121_凸台-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-110000A-1",
+      "bone": "Vehicle_Base",
+      "before": 200,
+      "after": 200
+    },
+    {
+      "source": "R2_122_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100021-2",
+      "bone": "Vehicle_Base",
+      "before": 1130,
+      "after": 271
+    },
+    {
+      "source": "R2_123_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100022-3",
+      "bone": "Vehicle_Base",
+      "before": 556,
+      "after": 556
+    },
+    {
+      "source": "R2_124_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100020-1",
+      "bone": "Vehicle_Base",
+      "before": 532,
+      "after": 532
+    },
+    {
+      "source": "R2_125_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100020-2",
+      "bone": "Vehicle_Base",
+      "before": 532,
+      "after": 532
+    },
+    {
+      "source": "R2_126_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100021-1",
+      "bone": "Vehicle_Base",
+      "before": 1130,
+      "after": 271
+    },
+    {
+      "source": "R2_127_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100022-2",
+      "bone": "Vehicle_Base",
+      "before": 556,
+      "after": 556
+    },
+    {
+      "source": "R2_128_切除-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100023-1",
+      "bone": "Vehicle_Base",
+      "before": 432,
+      "after": 432
+    },
+    {
+      "source": "R2_129_凸台-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100024-1",
+      "bone": "Vehicle_Base",
+      "before": 320,
+      "after": 320
+    },
+    {
+      "source": "R2_130_倒角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100025-1",
+      "bone": "Vehicle_Base",
+      "before": 900,
+      "after": 216
+    },
+    {
+      "source": "R2_131_倒角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100025-2",
+      "bone": "Vehicle_Base",
+      "before": 900,
+      "after": 216
+    },
+    {
+      "source": "R2_132_切除-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1100000-2/WDDQ20-1100023-2",
+      "bone": "Vehicle_Base",
+      "before": 432,
+      "after": 432
+    },
+    {
+      "source": "R2_133_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1300000-1/WDDQ20-1300002-1",
+      "bone": "Vehicle_Base",
+      "before": 776,
+      "after": 776
+    },
+    {
+      "source": "R2_134_拉伸-薄壁1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1300000-1/WDDQ20-1300001-1",
+      "bone": "Vehicle_Base",
+      "before": 372,
+      "after": 372
+    },
+    {
+      "source": "R2_135_切除-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1300000-1/WDDQ20-1300001-1",
+      "bone": "Vehicle_Base",
+      "before": 636,
+      "after": 636
+    },
+    {
+      "source": "R2_136_圆角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1300000-1/WDDQ20-1300001-1",
+      "bone": "Vehicle_Base",
+      "before": 3486,
+      "after": 836
+    },
+    {
+      "source": "R2_137_切除-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1300000-1/WDWG01-0000005-1/WDWG01-0000005A-1",
+      "bone": "Vehicle_Base",
+      "before": 714,
+      "after": 714
+    },
+    {
+      "source": "R2_138_凸台-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1300000-1/WDWG01-0000005-1/WDWG01-0000005C-1",
+      "bone": "Vehicle_Base",
+      "before": 608,
+      "after": 608
+    },
+    {
+      "source": "R2_139_切除-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDWG01-0000002-1",
+      "bone": "Vehicle_Base",
+      "before": 6728,
+      "after": 1614
+    },
+    {
+      "source": "R2_140_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1210000-2/WDDQ20-1210002-1",
+      "bone": "Vehicle_Base",
+      "before": 548,
+      "after": 548
+    },
+    {
+      "source": "R2_141_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1210000-2/WDDQ20-1210004-1",
+      "bone": "Vehicle_Base",
+      "before": 8,
+      "after": 8
+    },
+    {
+      "source": "R2_142_圆角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1210000-2/WDDQ20-1210001-1",
+      "bone": "Vehicle_Base",
+      "before": 604,
+      "after": 604
+    },
+    {
+      "source": "R2_143_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1210000-2/WDDQ20-1210003-1",
+      "bone": "Vehicle_Base",
+      "before": 408,
+      "after": 408
+    },
+    {
+      "source": "R2_144_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1210000-2/WDDQ20-1210004-2",
+      "bone": "Vehicle_Base",
+      "before": 8,
+      "after": 8
+    },
+    {
+      "source": "R2_145_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1210000-1/WDDQ20-1210002-1",
+      "bone": "Vehicle_Base",
+      "before": 548,
+      "after": 548
+    },
+    {
+      "source": "R2_146_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1210000-1/WDDQ20-1210004-1",
+      "bone": "Vehicle_Base",
+      "before": 8,
+      "after": 8
+    },
+    {
+      "source": "R2_147_圆角1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1210000-1/WDDQ20-1210001-1",
+      "bone": "Vehicle_Base",
+      "before": 604,
+      "after": 604
+    },
+    {
+      "source": "R2_148_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1210000-1/WDDQ20-1210003-1",
+      "bone": "Vehicle_Base",
+      "before": 408,
+      "after": 408
+    },
+    {
+      "source": "R2_149_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1210000-1/WDDQ20-1210004-2",
+      "bone": "Vehicle_Base",
+      "before": 8,
+      "after": 8
+    },
+    {
+      "source": "R2_150_凸台-拉伸5",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDWG03-0000011-1",
+      "bone": "Vehicle_Base",
+      "before": 1192,
+      "after": 286
+    },
+    {
+      "source": "R2_151_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1200001-1",
+      "bone": "Vehicle_Base",
+      "before": 2292,
+      "after": 550
+    },
+    {
+      "source": "R2_152_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDDQ20-1200001-2",
+      "bone": "Vehicle_Base",
+      "before": 2292,
+      "after": 550
+    },
+    {
+      "source": "R2_153_扫描1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDWG01-0000007-2",
+      "bone": "Vehicle_Base",
+      "before": 420,
+      "after": 420
+    },
+    {
+      "source": "R2_154_扫描1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200000-1/WDWG01-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 420,
+      "after": 420
+    },
+    {
+      "source": "R2_155_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000001-2",
+      "bone": "Vehicle_Base",
+      "before": 7460,
+      "after": 1790
+    },
+    {
+      "source": "R2_156_旋转1",
+      "component": "WDDQ20-1000000-1/WDWG02-0000006-1",
+      "bone": "Wheel_Rear_Right",
+      "before": 6312,
+      "after": 1514
+    },
+    {
+      "source": "R2_157_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1200002-1",
+      "bone": "Vehicle_Base",
+      "before": 2308,
+      "after": 553
+    },
+    {
+      "source": "R2_158_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-3100006-1",
+      "bone": "Vehicle_Base",
+      "before": 1036,
+      "after": 248
+    },
+    {
+      "source": "R2_159_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-3100005-1",
+      "bone": "Vehicle_Base",
+      "before": 2372,
+      "after": 569
+    },
+    {
+      "source": "R2_160_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-3100003-2",
+      "bone": "Vehicle_Base",
+      "before": 1100,
+      "after": 264
+    },
+    {
+      "source": "R2_161_凸台-拉伸4",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDWG03-0000003-1",
+      "bone": "Vehicle_Base",
+      "before": 1152,
+      "after": 276
+    },
+    {
+      "source": "R2_162_M4 螺纹孔1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDWG03-0000003-1",
+      "bone": "Vehicle_Base",
+      "before": 1286,
+      "after": 308
+    },
+    {
+      "source": "R2_163_M4 螺纹孔1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-3100002-1",
+      "bone": "Vehicle_Base",
+      "before": 2600,
+      "after": 624
+    },
+    {
+      "source": "R2_164_边线-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-1510000-1/WDDQ20-1510001-1",
+      "bone": "Vehicle_Base",
+      "before": 424,
+      "after": 424
+    },
+    {
+      "source": "R2_165_边线-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-1510000-1/WDDQ20-1510002-1",
+      "bone": "Vehicle_Base",
+      "before": 416,
+      "after": 416
+    },
+    {
+      "source": "R2_166_切除-拉伸2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-1510000-1/WDDQ20-1510003-1",
+      "bone": "Vehicle_Base",
+      "before": 660,
+      "after": 660
+    },
+    {
+      "source": "R2_167_R2_BatteryTop_R_0",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-1510000-1/WDDQ20-1510004-1",
+      "bone": "Vehicle_Base",
+      "before": 3448,
+      "after": 827
+    },
+    {
+      "source": "R2_168_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-3100004-1",
+      "bone": "Vehicle_Base",
+      "before": 2202,
+      "after": 528
+    },
+    {
+      "source": "R2_169_切除-拉伸3",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-3100001-1",
+      "bone": "Vehicle_Base",
+      "before": 1528,
+      "after": 366
+    },
+    {
+      "source": "R2_170_凸台-拉伸3",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDWG03-0000017-1",
+      "bone": "Vehicle_Base",
+      "before": 710,
+      "after": 710
+    },
+    {
+      "source": "R2_171_凸台-拉伸1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDWG03-0000016-1",
+      "bone": "Vehicle_Base",
+      "before": 84,
+      "after": 84
+    },
+    {
+      "source": "R2_172_阵列(圆周)1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDWG02-0000008-2",
+      "bone": "Vehicle_Base",
+      "before": 2490,
+      "after": 597
+    },
+    {
+      "source": "R2_173_圆角2",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDWG03-0000020-2",
+      "bone": "Vehicle_Base",
+      "before": 10644,
+      "after": 2554
+    },
+    {
+      "source": "R2_174_边线-法兰1",
+      "component": "WDDQ20-1000000-1/WDDQ20-1500000-1/WDDQ20-1500001-1",
+      "bone": "Vehicle_Base",
+      "before": 300,
+      "after": 300
+    },
+    {
+      "source": "R2_175_切除-拉伸1",
+      "component": "WDDQ20-1000000-1/WDWG01-0000001-1",
+      "bone": "Vehicle_Base",
+      "before": 7460,
+      "after": 1790
+    },
+    {
+      "source": "R2_176_凸台-拉伸3",
+      "component": "WDWG03-0000023-5",
+      "bone": "Vehicle_Base",
+      "before": 944,
+      "after": 226
+    },
+    {
+      "source": "R2_177_凸台-拉伸3",
+      "component": "WDWG03-0000023-7",
+      "bone": "Vehicle_Base",
+      "before": 944,
+      "after": 226
+    },
+    {
+      "source": "R2_178_圆角3",
+      "component": "WDDQ20-2100000-1/WDWG03-0000014-1",
+      "bone": "Vehicle_Base",
+      "before": 2206,
+      "after": 529
+    },
+    {
+      "source": "R2_179_镜向1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100001-1",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "R2_180_切除-拉伸1",
+      "component": "WDDQ20-2100000-1/WDWG01-0000006-1",
+      "bone": "Vehicle_Base",
+      "before": 2370,
+      "after": 568
+    },
+    {
+      "source": "R2_181_切除-拉伸1",
+      "component": "WDDQ20-2100000-1/WDWG01-0000006-2",
+      "bone": "Vehicle_Base",
+      "before": 2370,
+      "after": 568
+    },
+    {
+      "source": "R2_182_旋转1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100008-1",
+      "bone": "Vehicle_Base",
+      "before": 668,
+      "after": 668
+    },
+    {
+      "source": "R2_183_倒角1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100002-1",
+      "bone": "Vehicle_Base",
+      "before": 1914,
+      "after": 459
+    },
+    {
+      "source": "R2_184_倒角1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2110000-1",
+      "bone": "Vehicle_Base",
+      "before": 516,
+      "after": 516
+    },
+    {
+      "source": "R2_185_凸台-拉伸3",
+      "component": "WDDQ20-2100000-1/WDDQ20-2110000-1",
+      "bone": "Vehicle_Base",
+      "before": 888,
+      "after": 213
+    },
+    {
+      "source": "R2_186_切除-拉伸2",
+      "component": "WDDQ20-2100000-1/WDDQ20-2110000-1",
+      "bone": "Vehicle_Base",
+      "before": 1316,
+      "after": 315
+    },
+    {
+      "source": "R2_187_切除-拉伸1",
+      "component": "WDDQ20-2100000-1/主刷主动轮-1",
+      "bone": "Vehicle_Base",
+      "before": 1564,
+      "after": 375
+    },
+    {
+      "source": "R2_188_阵列(圆周)2",
+      "component": "WDDQ20-2100000-1/GB276-6204-2",
+      "bone": "Vehicle_Base",
+      "before": 18058,
+      "after": 4333
+    },
+    {
+      "source": "R2_189_凸台-旋转4",
+      "component": "WDDQ20-2100000-1/GB276-6204-2",
+      "bone": "Vehicle_Base",
+      "before": 4502,
+      "after": 1080
+    },
+    {
+      "source": "R2_190_镜向1",
+      "component": "WDDQ20-2100000-1/GB276-6204-2",
+      "bone": "Vehicle_Base",
+      "before": 5362,
+      "after": 1286
+    },
+    {
+      "source": "R2_191_阵列(圆周)2",
+      "component": "WDDQ20-2100000-1/GB276-6204-1",
+      "bone": "Vehicle_Base",
+      "before": 18058,
+      "after": 4333
+    },
+    {
+      "source": "R2_192_凸台-旋转4",
+      "component": "WDDQ20-2100000-1/GB276-6204-1",
+      "bone": "Vehicle_Base",
+      "before": 4502,
+      "after": 1080
+    },
+    {
+      "source": "R2_193_镜向1",
+      "component": "WDDQ20-2100000-1/GB276-6204-1",
+      "bone": "Vehicle_Base",
+      "before": 5362,
+      "after": 1286
+    },
+    {
+      "source": "R2_194_切除-拉伸1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2130000-1",
+      "bone": "Vehicle_Base",
+      "before": 600,
+      "after": 600
+    },
+    {
+      "source": "R2_195_凸台-拉伸1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2130000-1",
+      "bone": "Vehicle_Base",
+      "before": 476,
+      "after": 476
+    },
+    {
+      "source": "R2_196_凸台-拉伸3",
+      "component": "WDDQ20-2100000-1/WDDQ20-2120000-1",
+      "bone": "Vehicle_Base",
+      "before": 888,
+      "after": 213
+    },
+    {
+      "source": "R2_197_凸台-拉伸1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2120000-1",
+      "bone": "Vehicle_Base",
+      "before": 668,
+      "after": 668
+    },
+    {
+      "source": "R2_198_切除-旋转1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100003-1",
+      "bone": "Vehicle_Base",
+      "before": 1546,
+      "after": 371
+    },
+    {
+      "source": "R2_199_凸台-拉伸3[2]",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100003-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_200_凸台-拉伸3[1]",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100003-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_201_切除-拉伸1",
+      "component": "WDDQ20-2100000-1/主刷从动轮-1",
+      "bone": "Vehicle_Base",
+      "before": 1568,
+      "after": 376
+    },
+    {
+      "source": "R2_202_扫描1",
+      "component": "WDDQ20-2100000-1/主刷皮带-1",
+      "bone": "Vehicle_Base",
+      "before": 564,
+      "after": 564
+    },
+    {
+      "source": "R2_203_凸台-拉伸1",
+      "component": "WDDQ20-2100000-1/无油轴承203025-1",
+      "bone": "Vehicle_Base",
+      "before": 408,
+      "after": 408
+    },
+    {
+      "source": "R2_204_阵列(圆周)2",
+      "component": "WDDQ20-2100000-1/GB276-6204-3",
+      "bone": "Vehicle_Base",
+      "before": 18058,
+      "after": 4333
+    },
+    {
+      "source": "R2_205_凸台-旋转4",
+      "component": "WDDQ20-2100000-1/GB276-6204-3",
+      "bone": "Vehicle_Base",
+      "before": 4502,
+      "after": 1080
+    },
+    {
+      "source": "R2_206_镜向1",
+      "component": "WDDQ20-2100000-1/GB276-6204-3",
+      "bone": "Vehicle_Base",
+      "before": 5362,
+      "after": 1286
+    },
+    {
+      "source": "R2_207_倒角1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100004-1",
+      "bone": "Vehicle_Base",
+      "before": 1502,
+      "after": 360
+    },
+    {
+      "source": "R2_208_凸台-拉伸1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100004-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_209_阵列(圆周)2",
+      "component": "WDDQ20-2100000-1/GB276-6204-4",
+      "bone": "Vehicle_Base",
+      "before": 18058,
+      "after": 4333
+    },
+    {
+      "source": "R2_210_凸台-旋转4",
+      "component": "WDDQ20-2100000-1/GB276-6204-4",
+      "bone": "Vehicle_Base",
+      "before": 4502,
+      "after": 1080
+    },
+    {
+      "source": "R2_211_镜向1",
+      "component": "WDDQ20-2100000-1/GB276-6204-4",
+      "bone": "Vehicle_Base",
+      "before": 5362,
+      "after": 1286
+    },
+    {
+      "source": "R2_212_凸台-拉伸1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100007-1",
+      "bone": "Vehicle_Base",
+      "before": 628,
+      "after": 628
+    },
+    {
+      "source": "R2_213_切除-拉伸2",
+      "component": "WDDQ20-2100000-1/WDWG03-0000013-1",
+      "bone": "Vehicle_Base",
+      "before": 618,
+      "after": 618
+    },
+    {
+      "source": "R2_214_凸台-拉伸4",
+      "component": "WDDQ20-2100000-1/WDWG03-0000013-1",
+      "bone": "Vehicle_Base",
+      "before": 1298,
+      "after": 311
+    },
+    {
+      "source": "R2_215_倒角2",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100005-1",
+      "bone": "Vehicle_Base",
+      "before": 816,
+      "after": 195
+    },
+    {
+      "source": "R2_216_切除-拉伸6",
+      "component": "WDDQ20-2100000-1/WDWG02-0000004-1",
+      "bone": "Vehicle_Base",
+      "before": 13656,
+      "after": 3277
+    },
+    {
+      "source": "R2_217_凸台-拉伸5",
+      "component": "WDDQ20-2100000-1/WDDQ20-2140000-1",
+      "bone": "Vehicle_Base",
+      "before": 616,
+      "after": 616
+    },
+    {
+      "source": "R2_218_凸台-拉伸1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2140000-1",
+      "bone": "Vehicle_Base",
+      "before": 564,
+      "after": 564
+    },
+    {
+      "source": "R2_219_凸台-拉伸1",
+      "component": "WDDQ20-2100000-1/WDDQ20-2100006-1",
+      "bone": "Vehicle_Base",
+      "before": 344,
+      "after": 344
+    },
+    {
+      "source": "R2_220_BRAKE_guide_anchor_1_0.116",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_221_STEER_anchor_1.1835_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 152,
+      "after": 152
+    },
+    {
+      "source": "R2_222_FRAME_us_toe_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_223_WATER_motor_roller",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_224_WATER_drive_hanger_0.4",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 208,
+      "after": 208
+    },
+    {
+      "source": "R2_225_WATER_outerR_stand_17",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 118,
+      "after": 118
+    },
+    {
+      "source": "R2_226_FRAME_rear_header",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_227_WATER_innerR_stand_16",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 96,
+      "after": 96
+    },
+    {
+      "source": "R2_228_FOOT_L_mid",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_229_WATER_cable_cleat_1_0.95",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_230_STEER_encoder",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_231_STEER_servo",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 206,
+      "after": 206
+    },
+    {
+      "source": "R2_232_FRAME_lower_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_233_STEER_anchor_1.2565_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 152,
+      "after": 152
+    },
+    {
+      "source": "R2_234_FRAME_US_rear_link_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_235_WATER_roller_outer_hanger_0.72",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 136,
+      "after": 136
+    },
+    {
+      "source": "R2_236_FRAME_rear_bridge_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_237_FRAME_upper_spine_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 96,
+      "after": 96
+    },
+    {
+      "source": "R2_238_WATER_drive_cap",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_239_PORT_old_blank",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_240_FRAME_camera_toe_L_fit2",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 36,
+      "after": 36
+    },
+    {
+      "source": "R2_241_US_END_R_rear",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_242_BRAKE_guide_anchor_-1_0.084",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_243_STEER_output_collar",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 1002,
+      "after": 240
+    },
+    {
+      "source": "R2_244_WATER_motor_innerR",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_245_STEER_encoder_standoff_1.104_-0.018",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 214,
+      "after": 214
+    },
+    {
+      "source": "R2_246_CAM_BASE_R_rear",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_247_WATER_cable_cleat_-1_0.35",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_248_STEER_output_pin_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 206,
+      "after": 206
+    },
+    {
+      "source": "R2_249_FRAME_front_post_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_250_BRAKE_pin_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 200,
+      "after": 200
+    },
+    {
+      "source": "R2_251_PORT_mount_link_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_252_WATER_outerL_stand_16",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 96,
+      "after": 96
+    },
+    {
+      "source": "R2_253_STEER_mount",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_254_FRAME_rear_post_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_255_FOOT_R_mid",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_256_WATER_cable_cover_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_257_FRAME_port_jamb_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_258_WATER_filter_splash_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_259_WATER_roller_hanger_0.62",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 136,
+      "after": 136
+    },
+    {
+      "source": "R2_260_WATER_innerR_stand_17",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 96,
+      "after": 96
+    },
+    {
+      "source": "R2_261_FRAME_brake_hanger_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_262_US_END_L_front",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_263_BRAKE_bowden_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 36868,
+      "after": 8848
+    },
+    {
+      "source": "R2_264_SOFT_bin_mouth_seal_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 84,
+      "after": 84
+    },
+    {
+      "source": "R2_265_CAM_BASE_L_front",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_266_FRAME_camera_toe_R_fit2",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 36,
+      "after": 36
+    },
+    {
+      "source": "R2_267_BRAKE_sheath_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_268_US_SIDE_L_rear",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_269_STEER_anchor_1.2565_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 152,
+      "after": 152
+    },
+    {
+      "source": "R2_270_SOFT_bin_mouth_seal_2",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_271_BRAKE_guide_anchor_1_0.084",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_272_FRAME_us_toe_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_273_WATER_motor_outerR",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_274_DRIVE_mount_plate",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_275_WATER_cable_cleat_1_0.35",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_276_STEER_riser_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_277_STEER_encoder_standoff_1.104_0.018",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 214,
+      "after": 214
+    },
+    {
+      "source": "R2_278_FRAME_lidar_head",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_279_PORT_mount_plate",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 198,
+      "after": 198
+    },
+    {
+      "source": "R2_280_STEER_output_base_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 388,
+      "after": 388
+    },
+    {
+      "source": "R2_281_FRAME_US_rear_link_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_282_STEER_reaction_tube",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "R2_283_BRAKE_pin_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 200,
+      "after": 200
+    },
+    {
+      "source": "R2_284_FRAME_front_foot_R_fit2",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 48,
+      "after": 48
+    },
+    {
+      "source": "R2_285_WATER_outerL_stand_17",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 96,
+      "after": 96
+    },
+    {
+      "source": "R2_286_WATER_innerL_stand_16",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 96,
+      "after": 96
+    },
+    {
+      "source": "R2_287_FRAME_rear_bridge_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_288_FRAME_camera_toe_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 28,
+      "after": 28
+    },
+    {
+      "source": "R2_289_US_END_R_front",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_290_FRAME_front_foot_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "R2_291_WATER_roller_hanger_0.72",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 136,
+      "after": 136
+    },
+    {
+      "source": "R2_292_BRAKE_guide_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_293_WATER_motor_innerL",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_294_CAM_BASE_R_front",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_295_US_SIDE_R_rear",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_296_BRAKE_mount_plate",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_297_LIDAR_BASE",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_298_WATER_motor_roller_outer",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_299_BRAKE_bowden_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 36938,
+      "after": 8865
+    },
+    {
+      "source": "R2_300_FRAME_rear_post_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_301_FOOT_L_rear",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_302_STEER_encoder_standoff_1.066_-0.018",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 214,
+      "after": 214
+    },
+    {
+      "source": "R2_303_WATER_cable_cover_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_304_FRAME_lower_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_305_BRAKE_web_backing_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 152,
+      "after": 152
+    },
+    {
+      "source": "R2_306_STEER_anchor_1.1835_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 152,
+      "after": 152
+    },
+    {
+      "source": "R2_307_FRAME_brake_hanger_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_308_STEER_encoder_target",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 208,
+      "after": 208
+    },
+    {
+      "source": "R2_309_BRAKE_actuator",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_310_FRAME_rear_foot_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 170,
+      "after": 170
+    },
+    {
+      "source": "R2_311_WATER_drive_hanger_0.17",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 208,
+      "after": 208
+    },
+    {
+      "source": "R2_312_SOFT_bin_mouth_seal_0",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_313_FRAME_camera_toe_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 28,
+      "after": 28
+    },
+    {
+      "source": "R2_314_BRAKE_sheath_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_315_US_SIDE_L_front",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_316_WATER_outerR_stand_16",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 118,
+      "after": 118
+    },
+    {
+      "source": "R2_317_WATER_innerL_stand_17",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 96,
+      "after": 96
+    },
+    {
+      "source": "R2_318_STEER_coupler",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 96,
+      "after": 96
+    },
+    {
+      "source": "R2_319_BRAKE_guide_anchor_-1_0.116",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_320_WATER_motor_outerL",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_321_DRIVE_controller",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_322_WATER_cable_cleat_-1_0.95",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_323_FRAME_front_foot_L_fit2",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 48,
+      "after": 48
+    },
+    {
+      "source": "R2_324_STEER_output_base_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 388,
+      "after": 388
+    },
+    {
+      "source": "R2_325_WATER_roller_outer_hanger_0.62",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 136,
+      "after": 136
+    },
+    {
+      "source": "R2_326_STEER_riser_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_327_FRAME_front_post_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_328_PORT_mount_link_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_329_STEER_output_arm",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_330_FRAME_upper_spine_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 96,
+      "after": 96
+    },
+    {
+      "source": "R2_331_FRAME_front_foot_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "R2_332_FOOT_R_rear",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_333_WATER_drain_interface",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 222,
+      "after": 222
+    },
+    {
+      "source": "R2_334_FRAME_rear_foot_R",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 170,
+      "after": 170
+    },
+    {
+      "source": "R2_335_FRAME_port_jamb_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_336_WATER_filter_splash_1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_337_STEER_encoder_standoff_1.066_0.018",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 214,
+      "after": 214
+    },
+    {
+      "source": "R2_338_FRAME_brake_head",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_339_US_END_L_rear",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_340_STEER_output_pin_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 206,
+      "after": 206
+    },
+    {
+      "source": "R2_341_BRAKE_guide_L",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_342_STEER_flange",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 246,
+      "after": 246
+    },
+    {
+      "source": "R2_343_CAM_BASE_L_rear",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_344_BRAKE_web_backing_-1",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 152,
+      "after": 152
+    },
+    {
+      "source": "R2_345_FRAME_front_bridge",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "R2_346_US_SIDE_R_front",
+      "component": "R2-Mechanical-Interfaces-v13-1",
+      "bone": "Vehicle_Base",
+      "before": 12,
+      "after": 12
+    },
+    {
+      "source": "R2_347_圆角22",
+      "component": "WDDQ20-4400001-1",
+      "bone": "Vehicle_Base",
+      "before": 9010,
+      "after": 2162
+    },
+    {
+      "source": "R2_348_凸台-拉伸1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2200001-1",
+      "bone": "Vehicle_Base",
+      "before": 424,
+      "after": 424
+    },
+    {
+      "source": "R2_349_切除-拉伸2",
+      "component": "WDDQ20-2200000-1/WDDQ20-2210000-1/WDDQ20-2210001-1",
+      "bone": "Vehicle_Base",
+      "before": 868,
+      "after": 208
+    },
+    {
+      "source": "R2_350_倒角1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2210000-1/WDDQ20-2210002-1",
+      "bone": "Vehicle_Base",
+      "before": 1032,
+      "after": 247
+    },
+    {
+      "source": "R2_351_圆角1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2210000-1/WDDQ20-2210003-1",
+      "bone": "Vehicle_Base",
+      "before": 904,
+      "after": 216
+    },
+    {
+      "source": "R2_352_切除-拉伸2",
+      "component": "WDDQ20-2200000-1/WDDQ20-2220000-1/WDDQ20-2210001-1",
+      "bone": "Vehicle_Base",
+      "before": 868,
+      "after": 208
+    },
+    {
+      "source": "R2_353_倒角1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2220000-1/WDDQ20-2210002-1",
+      "bone": "Vehicle_Base",
+      "before": 1032,
+      "after": 247
+    },
+    {
+      "source": "R2_354_镜向1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2220000-1/WDDQ20-2210003-1",
+      "bone": "Vehicle_Base",
+      "before": 904,
+      "after": 216
+    },
+    {
+      "source": "R2_355_切除-拉伸1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2220000-1/WDDQ20-2210004-1",
+      "bone": "Vehicle_Base",
+      "before": 576,
+      "after": 576
+    },
+    {
+      "source": "R2_356_切除-拉伸3",
+      "component": "WDDQ20-2200000-1/WDDQ20-2200002-1",
+      "bone": "Vehicle_Base",
+      "before": 792,
+      "after": 792
+    },
+    {
+      "source": "R2_357_凸台-拉伸1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2200002-1",
+      "bone": "Vehicle_Base",
+      "before": 796,
+      "after": 796
+    },
+    {
+      "source": "R2_358_切除-拉伸4",
+      "component": "WDDQ20-2200000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 5142,
+      "after": 1234
+    },
+    {
+      "source": "R2_359_阵列(圆周)1",
+      "component": "WDDQ20-2200000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 2122,
+      "after": 509
+    },
+    {
+      "source": "R2_360_倒角1",
+      "component": "WDDQ20-2200000-1/WDWG03-0000019-1",
+      "bone": "Vehicle_Base",
+      "before": 1138,
+      "after": 273
+    },
+    {
+      "source": "R2_361_圆角1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2230000-1/WDDQ20-2230002-1",
+      "bone": "Vehicle_Base",
+      "before": 644,
+      "after": 644
+    },
+    {
+      "source": "R2_362_圆角1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2230000-1/WDDQ20-2230002-2",
+      "bone": "Vehicle_Base",
+      "before": 644,
+      "after": 644
+    },
+    {
+      "source": "R2_363_拉伸-薄壁1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2230000-1/WDDQ20-2230001-1",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "R2_364_切除-拉伸3",
+      "component": "WDDQ20-2200000-1/WDDQ20-2200002-3",
+      "bone": "Vehicle_Base",
+      "before": 792,
+      "after": 792
+    },
+    {
+      "source": "R2_365_凸台-拉伸1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2200002-3",
+      "bone": "Vehicle_Base",
+      "before": 796,
+      "after": 796
+    },
+    {
+      "source": "R2_366_切除-拉伸2",
+      "component": "WDDQ20-2200000-1/WDWG03-0000013-1",
+      "bone": "Vehicle_Base",
+      "before": 538,
+      "after": 538
+    },
+    {
+      "source": "R2_367_凸台-拉伸4",
+      "component": "WDDQ20-2200000-1/WDWG03-0000013-1",
+      "bone": "Vehicle_Base",
+      "before": 1298,
+      "after": 311
+    },
+    {
+      "source": "R2_368_凸台-拉伸1",
+      "component": "WDDQ20-2200000-1/WDDQ20-2100006-1",
+      "bone": "Vehicle_Base",
+      "before": 344,
+      "after": 344
+    },
+    {
+      "source": "R2_369_切除-拉伸4",
+      "component": "WDDQ20-2200000-1/WDWG02-0000007-3",
+      "bone": "Vehicle_Base",
+      "before": 5142,
+      "after": 1234
+    },
+    {
+      "source": "R2_370_阵列(圆周)1",
+      "component": "WDDQ20-2200000-1/WDWG02-0000007-3",
+      "bone": "Vehicle_Base",
+      "before": 2122,
+      "after": 509
+    },
+    {
+      "source": "R2_371_倒角1",
+      "component": "WDDQ20-2200000-1/WDWG03-0000019-3",
+      "bone": "Vehicle_Base",
+      "before": 1138,
+      "after": 273
+    },
+    {
+      "source": "R2_372_凸台-拉伸3",
+      "component": "WDWG03-0000023-2",
+      "bone": "Vehicle_Base",
+      "before": 944,
+      "after": 226
+    },
+    {
+      "source": "R2_373_凸台-拉伸3",
+      "component": "WDWG03-0000023-3",
+      "bone": "Vehicle_Base",
+      "before": 944,
+      "after": 226
+    },
+    {
+      "source": "R2_374_凸台-拉伸3",
+      "component": "WDWG03-0000023-4",
+      "bone": "Vehicle_Base",
+      "before": 944,
+      "after": 226
+    },
+    {
+      "source": "R2_375_凸台-拉伸3",
+      "component": "WDWG03-0000023-6",
+      "bone": "Vehicle_Base",
+      "before": 944,
+      "after": 226
+    },
+    {
+      "source": "R2_376_凸台-拉伸1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2410000-1/WDDQ20-2310001-1",
+      "bone": "Vehicle_Base",
+      "before": 352,
+      "after": 352
+    },
+    {
+      "source": "R2_377_切除-拉伸1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2410000-1/WDDQ20-2310002-1",
+      "bone": "Vehicle_Base",
+      "before": 416,
+      "after": 416
+    },
+    {
+      "source": "R2_378_切除-拉伸1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2410000-1/WDDQ20-2310003-1",
+      "bone": "Vehicle_Base",
+      "before": 468,
+      "after": 468
+    },
+    {
+      "source": "R2_379_切除-拉伸1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2410000-1/WDDQ20-2210004-1",
+      "bone": "Vehicle_Base",
+      "before": 576,
+      "after": 576
+    },
+    {
+      "source": "R2_380_基体-法兰1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2410000-1/WDDQ20-2310004-2",
+      "bone": "Vehicle_Base",
+      "before": 224,
+      "after": 224
+    },
+    {
+      "source": "R2_381_镜向1[1]",
+      "component": "WDDQ20-2400000-1/防撞弹簧-1",
+      "bone": "Vehicle_Base",
+      "before": 35836,
+      "after": 8600
+    },
+    {
+      "source": "R2_382_镜向1[2]",
+      "component": "WDDQ20-2400000-1/防撞弹簧-1",
+      "bone": "Vehicle_Base",
+      "before": 184,
+      "after": 184
+    },
+    {
+      "source": "R2_383_切除-拉伸3[15]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_384_切除-拉伸3[6]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_385_切除-拉伸3[17]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_386_切除-拉伸3[8]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 238,
+      "after": 238
+    },
+    {
+      "source": "R2_387_阵列(圆周)1",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 2122,
+      "after": 509
+    },
+    {
+      "source": "R2_388_切除-拉伸3[10]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_389_切除-拉伸3[20]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_390_切除-拉伸3[12]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_391_切除-拉伸3[3]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 238,
+      "after": 238
+    },
+    {
+      "source": "R2_392_切除-拉伸3[14]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_393_切除-拉伸3[5]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_394_切除-拉伸3[16]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_395_切除-拉伸3[7]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_396_切除-拉伸3[19]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_397_切除-拉伸3[18]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 238,
+      "after": 238
+    },
+    {
+      "source": "R2_398_切除-拉伸3[9]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_399_切除-拉伸3[1]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_400_切除-拉伸3[11]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_401_切除-拉伸3[2]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_402_切除-拉伸3[13]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 238,
+      "after": 238
+    },
+    {
+      "source": "R2_403_切除-拉伸3[4]",
+      "component": "WDDQ20-2400000-1/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_404_凸台-拉伸1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2420000-1/WDDQ20-2320001-1",
+      "bone": "Vehicle_Base",
+      "before": 392,
+      "after": 392
+    },
+    {
+      "source": "R2_405_切除-拉伸1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2420000-1/WDDQ20-2320002-1",
+      "bone": "Vehicle_Base",
+      "before": 744,
+      "after": 744
+    },
+    {
+      "source": "R2_406_基体-法兰1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2420000-1/WDDQ20-2320004-1",
+      "bone": "Vehicle_Base",
+      "before": 216,
+      "after": 216
+    },
+    {
+      "source": "R2_407_圆角1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2420000-1/WDDQ20-2320003-1",
+      "bone": "Vehicle_Base",
+      "before": 868,
+      "after": 208
+    },
+    {
+      "source": "R2_408_基体-法兰1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2420000-1/WDDQ20-2310004-1",
+      "bone": "Vehicle_Base",
+      "before": 224,
+      "after": 224
+    },
+    {
+      "source": "R2_409_倒角1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2300001-1",
+      "bone": "Vehicle_Base",
+      "before": 716,
+      "after": 716
+    },
+    {
+      "source": "R2_410_倒角1",
+      "component": "WDDQ20-2400000-1/WDWG03-0000019-1",
+      "bone": "Vehicle_Base",
+      "before": 1138,
+      "after": 273
+    },
+    {
+      "source": "R2_411_切除-拉伸2",
+      "component": "WDDQ20-2400000-1/WDWG03-0000013-1",
+      "bone": "Vehicle_Base",
+      "before": 538,
+      "after": 538
+    },
+    {
+      "source": "R2_412_凸台-拉伸4",
+      "component": "WDDQ20-2400000-1/WDWG03-0000013-1",
+      "bone": "Vehicle_Base",
+      "before": 1298,
+      "after": 311
+    },
+    {
+      "source": "R2_413_切除-拉伸3",
+      "component": "WDDQ20-2400000-1/WDDQ20-2200002-1",
+      "bone": "Vehicle_Base",
+      "before": 792,
+      "after": 792
+    },
+    {
+      "source": "R2_414_凸台-拉伸1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2200002-1",
+      "bone": "Vehicle_Base",
+      "before": 796,
+      "after": 796
+    },
+    {
+      "source": "R2_415_凸台-拉伸1",
+      "component": "WDDQ20-2400000-1/WDDQ20-2100006-1",
+      "bone": "Vehicle_Base",
+      "before": 344,
+      "after": 344
+    },
+    {
+      "source": "R2_416_倒角1",
+      "component": "WDDQ20-2300000-2/WDWG03-0000019-1",
+      "bone": "Vehicle_Base",
+      "before": 1138,
+      "after": 273
+    },
+    {
+      "source": "R2_417_倒角1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2300001-1",
+      "bone": "Vehicle_Base",
+      "before": 716,
+      "after": 716
+    },
+    {
+      "source": "R2_418_扫描3",
+      "component": "WDDQ20-2300000-2/防撞弹簧-1",
+      "bone": "Vehicle_Base",
+      "before": 35836,
+      "after": 8600
+    },
+    {
+      "source": "R2_419_凸台-拉伸2",
+      "component": "WDDQ20-2300000-2/防撞弹簧-1",
+      "bone": "Vehicle_Base",
+      "before": 184,
+      "after": 184
+    },
+    {
+      "source": "R2_420_凸台-拉伸1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2310000-1/WDDQ20-2310001-1",
+      "bone": "Vehicle_Base",
+      "before": 352,
+      "after": 352
+    },
+    {
+      "source": "R2_421_切除-拉伸1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2310000-1/WDDQ20-2310002-1",
+      "bone": "Vehicle_Base",
+      "before": 416,
+      "after": 416
+    },
+    {
+      "source": "R2_422_切除-拉伸1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2310000-1/WDDQ20-2310003-1",
+      "bone": "Vehicle_Base",
+      "before": 468,
+      "after": 468
+    },
+    {
+      "source": "R2_423_切除-拉伸1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2310000-1/WDDQ20-2210004-1",
+      "bone": "Vehicle_Base",
+      "before": 576,
+      "after": 576
+    },
+    {
+      "source": "R2_424_基体-法兰1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2310000-1/WDDQ20-2310004-2",
+      "bone": "Vehicle_Base",
+      "before": 224,
+      "after": 224
+    },
+    {
+      "source": "R2_425_切除-拉伸1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2320000-1/WDDQ20-2320002-1",
+      "bone": "Vehicle_Base",
+      "before": 744,
+      "after": 744
+    },
+    {
+      "source": "R2_426_凸台-拉伸1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2320000-1/WDDQ20-2320001-1",
+      "bone": "Vehicle_Base",
+      "before": 392,
+      "after": 392
+    },
+    {
+      "source": "R2_427_圆角1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2320000-1/WDDQ20-2320003-1",
+      "bone": "Vehicle_Base",
+      "before": 868,
+      "after": 208
+    },
+    {
+      "source": "R2_428_基体-法兰1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2320000-1/WDDQ20-2310004-1",
+      "bone": "Vehicle_Base",
+      "before": 224,
+      "after": 224
+    },
+    {
+      "source": "R2_429_基体-法兰1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2320000-1/WDDQ20-2320004-1",
+      "bone": "Vehicle_Base",
+      "before": 216,
+      "after": 216
+    },
+    {
+      "source": "R2_430_切除-拉伸3[15]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_431_切除-拉伸3[6]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_432_切除-拉伸3[17]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_433_切除-拉伸3[8]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 238,
+      "after": 238
+    },
+    {
+      "source": "R2_434_阵列(圆周)1",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 2122,
+      "after": 509
+    },
+    {
+      "source": "R2_435_切除-拉伸3[10]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_436_切除-拉伸3[20]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_437_切除-拉伸3[12]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_438_切除-拉伸3[3]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 238,
+      "after": 238
+    },
+    {
+      "source": "R2_439_切除-拉伸3[14]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_440_切除-拉伸3[5]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_441_切除-拉伸3[16]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_442_切除-拉伸3[7]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_443_切除-拉伸3[19]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_444_切除-拉伸3[18]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 238,
+      "after": 238
+    },
+    {
+      "source": "R2_445_切除-拉伸3[9]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_446_切除-拉伸3[1]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_447_切除-拉伸3[11]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_448_切除-拉伸3[2]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_449_切除-拉伸3[13]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 238,
+      "after": 238
+    },
+    {
+      "source": "R2_450_切除-拉伸3[4]",
+      "component": "WDDQ20-2300000-2/WDWG02-0000007-1",
+      "bone": "Vehicle_Base",
+      "before": 242,
+      "after": 242
+    },
+    {
+      "source": "R2_451_切除-拉伸2",
+      "component": "WDDQ20-2300000-2/WDWG03-0000013-1",
+      "bone": "Vehicle_Base",
+      "before": 538,
+      "after": 538
+    },
+    {
+      "source": "R2_452_凸台-拉伸4",
+      "component": "WDDQ20-2300000-2/WDWG03-0000013-1",
+      "bone": "Vehicle_Base",
+      "before": 1298,
+      "after": 311
+    },
+    {
+      "source": "R2_453_切除-拉伸3",
+      "component": "WDDQ20-2300000-2/WDDQ20-2200002-1",
+      "bone": "Vehicle_Base",
+      "before": 792,
+      "after": 792
+    },
+    {
+      "source": "R2_454_凸台-拉伸1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2200002-1",
+      "bone": "Vehicle_Base",
+      "before": 796,
+      "after": 796
+    },
+    {
+      "source": "R2_455_凸台-拉伸1",
+      "component": "WDDQ20-2300000-2/WDDQ20-2100006-1",
+      "bone": "Vehicle_Base",
+      "before": 344,
+      "after": 344
+    },
+    {
+      "source": "R2_456_凸台-拉伸12",
+      "component": "WDWG03-0000021-1",
+      "bone": "Vehicle_Base",
+      "before": 3048,
+      "after": 731
+    },
+    {
+      "source": "R2_457_圆角3",
+      "component": "WDWG03-0000021-1",
+      "bone": "Vehicle_Base",
+      "before": 1440,
+      "after": 345
+    },
+    {
+      "source": "R2_458_镜向1",
+      "component": "WDDQ20-4400001-2",
+      "bone": "Vehicle_Base",
+      "before": 9010,
+      "after": 2162
+    },
+    {
+      "source": "Shell_Skirt_RearWheel_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 1824,
+      "after": 1824
+    },
+    {
+      "source": "Shell_Skirt_Front_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 1256,
+      "after": 1256
+    },
+    {
+      "source": "Shell_Skirt_RearWheel_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 1893,
+      "after": 1893
+    },
+    {
+      "source": "Shell_Skirt_Front_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 1290,
+      "after": 1290
+    },
+    {
+      "source": "Shell_Rear_Jamb_-1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 76,
+      "after": 76
+    },
+    {
+      "source": "Shell_Rear_Jamb_1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 76,
+      "after": 76
+    },
+    {
+      "source": "Shell_Front_LowerBand",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 1197,
+      "after": 1197
+    },
+    {
+      "source": "Shell_FrontWheel_Crown",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 648,
+      "after": 648
+    },
+    {
+      "source": "Shell_FrontWheel_Apron",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 108,
+      "after": 108
+    },
+    {
+      "source": "Shell_FrontWheel_Cheek_-1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 108,
+      "after": 108
+    },
+    {
+      "source": "Shell_FrontWheel_Cheek_1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 108,
+      "after": 108
+    },
+    {
+      "source": "Shell_FrontWheel_Body_Transition",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 68,
+      "after": 68
+    },
+    {
+      "source": "V7_Body_Left",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 448,
+      "after": 448
+    },
+    {
+      "source": "V7_Body_Rear",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 204,
+      "after": 204
+    },
+    {
+      "source": "V7_Body_Right",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 448,
+      "after": 448
+    },
+    {
+      "source": "V7_Body_Front",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 312,
+      "after": 312
+    },
+    {
+      "source": "V7_Sensor_Band",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 312,
+      "after": 312
+    },
+    {
+      "source": "V7_Roof",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 3568,
+      "after": 3568
+    },
+    {
+      "source": "V7_Front_Mask",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 224,
+      "after": 224
+    },
+    {
+      "source": "V7_Front_Visor_Upper",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 272,
+      "after": 272
+    },
+    {
+      "source": "V7_Continuous_Lower_Band",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 366,
+      "after": 366
+    },
+    {
+      "source": "V7_Waist_Accent",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 288,
+      "after": 288
+    },
+    {
+      "source": "V7_Front_Lower_Fascia",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 288,
+      "after": 288
+    },
+    {
+      "source": "V7_Front_Lower_Cover",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Hatch_Rear_Whole_Removable",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 164,
+      "after": 164
+    },
+    {
+      "source": "V7_Battery_Front_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 184,
+      "after": 184
+    },
+    {
+      "source": "V7_Battery_Front_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 184,
+      "after": 184
+    },
+    {
+      "source": "V7_Battery_Rear_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 404,
+      "after": 404
+    },
+    {
+      "source": "V7_Battery_Rear_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 404,
+      "after": 404
+    },
+    {
+      "source": "V7_Service_Door_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 164,
+      "after": 164
+    },
+    {
+      "source": "V7_Service_Door_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 164,
+      "after": 164
+    },
+    {
+      "source": "Housing_Oval_US_R_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "Housing_Oval_US_R_SIDE_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "Housing_Oval_US_R_SIDE_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "Housing_Oval_US_L_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "Housing_Oval_US_L_SIDE_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "Housing_Oval_US_L_SIDE_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "Housing_Oval_US_L_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "Housing_Oval_US_R_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "Housing_CAM_AFT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 1536,
+      "after": 1536
+    },
+    {
+      "source": "Housing_Back_CAM_AFT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 764,
+      "after": 764
+    },
+    {
+      "source": "V6_Housing_CAM_LF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 576,
+      "after": 576
+    },
+    {
+      "source": "V6_Back_CAM_LF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "V6_Housing_CAM_LR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 576,
+      "after": 576
+    },
+    {
+      "source": "V6_Back_CAM_LR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "V6_Housing_CAM_RF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 576,
+      "after": 576
+    },
+    {
+      "source": "V6_Back_CAM_RF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "V6_Housing_CAM_RR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 576,
+      "after": 576
+    },
+    {
+      "source": "V6_Back_CAM_RR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "V7_Front_Camera_Housing",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 624,
+      "after": 624
+    },
+    {
+      "source": "V7_Front_Camera_Window",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 204,
+      "after": 204
+    },
+    {
+      "source": "V7_Side_Pod_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 284,
+      "after": 284
+    },
+    {
+      "source": "V7_Side_Visor_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "V7_Side_Pod_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 284,
+      "after": 284
+    },
+    {
+      "source": "V7_Side_Visor_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Bracket_US_R_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "Bracket_US_R_SIDE_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "Bracket_US_R_SIDE_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "Bracket_US_L_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "Bracket_US_L_SIDE_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "Bracket_US_L_SIDE_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "Bracket_US_L_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "Bracket_BaseRise_US_L_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 36,
+      "after": 36
+    },
+    {
+      "source": "Bracket_US_R_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "Bracket_BaseRise_US_R_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 36,
+      "after": 36
+    },
+    {
+      "source": "Mount_Collar_CAM_AFT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 256,
+      "after": 256
+    },
+    {
+      "source": "V6_Mast_Rear_Foot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Mast_Roof_Tie_-1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Mast_Diagonal_-1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Mast_Roof_Tie_1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Mast_Diagonal_1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Mast_Internal_Plate",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Mast_Structural_Shaft",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Side_Load_Rail_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Side_Load_Brace_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Corner_Foot_LF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Corner_Post_Lower_LF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Camera_Mount_CAM_LF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Corner_Foot_LR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Corner_Post_Lower_LR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Camera_Mount_CAM_LR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Side_Load_Rail_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Side_Load_Brace_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Corner_Foot_RF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Corner_Post_Lower_RF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Camera_Mount_CAM_RF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Corner_Foot_RR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Corner_Post_Lower_RR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Camera_Mount_CAM_RR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Corner_Post_LF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Corner_Link_LF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Corner_Post_LR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Corner_Link_LR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Corner_Post_RF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Corner_Link_RF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Corner_Post_RR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Corner_Link_RR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "Roof_EStop_Base",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 92,
+      "after": 92
+    },
+    {
+      "source": "Roof_EStop_Button",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 92,
+      "after": 92
+    },
+    {
+      "source": "V7_Roof_Sensor_Island",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 864,
+      "after": 864
+    },
+    {
+      "source": "V7_Roof_Island_Lid",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 402,
+      "after": 402
+    },
+    {
+      "source": "V7_GNSS_Roof_Base",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 380,
+      "after": 380
+    },
+    {
+      "source": "V7_GNSS_Seal",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 380,
+      "after": 380
+    },
+    {
+      "source": "V7_GNSS_White_Radome",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 1340,
+      "after": 1340
+    },
+    {
+      "source": "V7_Top_MID360_Housing",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 302076,
+      "after": 302076
+    },
+    {
+      "source": "V7_Top_MID360_Optical_Dome",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 2846,
+      "after": 2846
+    },
+    {
+      "source": "V7_Top_MID360_Base",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 126138,
+      "after": 126138
+    },
+    {
+      "source": "V7_Top_MID360_Connector",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 31903,
+      "after": 31903
+    },
+    {
+      "source": "V7_Top_Riser",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Top_Adapter",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 814,
+      "after": 814
+    },
+    {
+      "source": "Probe_US_R_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 284,
+      "after": 284
+    },
+    {
+      "source": "Probe_US_R_SIDE_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 284,
+      "after": 284
+    },
+    {
+      "source": "Probe_US_R_SIDE_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 284,
+      "after": 284
+    },
+    {
+      "source": "Probe_US_L_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 284,
+      "after": 284
+    },
+    {
+      "source": "Probe_US_L_SIDE_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 284,
+      "after": 284
+    },
+    {
+      "source": "Probe_US_L_SIDE_REAR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 284,
+      "after": 284
+    },
+    {
+      "source": "Probe_US_L_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 284,
+      "after": 284
+    },
+    {
+      "source": "Probe_US_R_FRONT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 284,
+      "after": 284
+    },
+    {
+      "source": "Lens_CAM_FWD",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 124,
+      "after": 124
+    },
+    {
+      "source": "Lens_Seat_CAM_FWD",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "Lens_CAM_AFT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 124,
+      "after": 124
+    },
+    {
+      "source": "Lens_Seat_CAM_AFT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 192,
+      "after": 192
+    },
+    {
+      "source": "V6_Lens_CAM_LF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Lens_CAM_LR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Lens_CAM_RF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V6_Lens_CAM_RR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "Light_Tail_L_Gasket",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Tail_L_Carrier",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Tail_L_Emitter",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Tail_L_Lens",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Tail_R_Gasket",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Tail_R_Carrier",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Tail_R_Emitter",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Tail_R_Lens",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Brake_Carrier",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Brake_Reflector",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Brake_Emitter",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Light_Brake_Lens",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Reflector_Rear_-1_Seal",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Reflector_Rear_-1_Lens",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Reflector_Rear_1_Seal",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Reflector_Rear_1_Lens",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "V7_Front_Lamp_Housing_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Front_Lamp_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Front_Lamp_Housing_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "V7_Front_Lamp_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "Hatch_Filter_Interface_Removable",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 76,
+      "after": 76
+    },
+    {
+      "source": "Latch_Filter_-1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Filter_QuarterTurn_-1_0.333",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Filter_QuarterTurn_-1_0.333_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    },
+    {
+      "source": "Filter_QuarterTurn_-1_0.763",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Filter_QuarterTurn_-1_0.763_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    },
+    {
+      "source": "Latch_Filter_1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 140,
+      "after": 140
+    },
+    {
+      "source": "Filter_QuarterTurn_1_0.333",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Filter_QuarterTurn_1_0.333_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    },
+    {
+      "source": "Filter_QuarterTurn_1_0.763",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Filter_QuarterTurn_1_0.763_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    },
+    {
+      "source": "Seal_Hatch_Filter_Interface_Removable",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 576,
+      "after": 576
+    },
+    {
+      "source": "Detail_Iris_CAM_FWD",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "Detail_Optic_Rim_CAM_FWD",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 384,
+      "after": 384
+    },
+    {
+      "source": "Detail_Seal_CAM_AFT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 384,
+      "after": 384
+    },
+    {
+      "source": "Detail_Iris_CAM_AFT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 188,
+      "after": 188
+    },
+    {
+      "source": "Detail_Optic_Rim_CAM_AFT",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 384,
+      "after": 384
+    },
+    {
+      "source": "Collar_Screw_CAM_AFT_0",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Collar_Screw_CAM_AFT_0_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    },
+    {
+      "source": "Collar_Screw_CAM_AFT_1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Collar_Screw_CAM_AFT_1_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    },
+    {
+      "source": "Collar_Screw_CAM_AFT_2",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Collar_Screw_CAM_AFT_2_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    },
+    {
+      "source": "V6_Optic_Rim_CAM_LF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 512,
+      "after": 512
+    },
+    {
+      "source": "V6_Optic_Rim_CAM_LR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 512,
+      "after": 512
+    },
+    {
+      "source": "V6_Optic_Rim_CAM_RF",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 512,
+      "after": 512
+    },
+    {
+      "source": "V6_Optic_Rim_CAM_RR",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 512,
+      "after": 512
+    },
+    {
+      "source": "Guard_BrushRoot_Outer_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 20,
+      "after": 20
+    },
+    {
+      "source": "Mount_Guard_Outer_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 28,
+      "after": 28
+    },
+    {
+      "source": "Guard_Fastener_Outer_-1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Guard_Fastener_Outer_-1_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    },
+    {
+      "source": "Guard_BrushRoot_Inner_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 20,
+      "after": 20
+    },
+    {
+      "source": "Mount_Guard_Inner_R",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 28,
+      "after": 28
+    },
+    {
+      "source": "Guard_Fastener_Inner_-1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Guard_Fastener_Inner_-1_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    },
+    {
+      "source": "Guard_BrushRoot_Outer_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 20,
+      "after": 20
+    },
+    {
+      "source": "Mount_Guard_Outer_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 28,
+      "after": 28
+    },
+    {
+      "source": "Guard_Fastener_Outer_1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Guard_Fastener_Outer_1_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    },
+    {
+      "source": "Guard_BrushRoot_Inner_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 20,
+      "after": 20
+    },
+    {
+      "source": "Mount_Guard_Inner_L",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 28,
+      "after": 28
+    },
+    {
+      "source": "Guard_Fastener_Inner_1",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 44,
+      "after": 44
+    },
+    {
+      "source": "Guard_Fastener_Inner_1_Slot",
+      "component": "",
+      "bone": "Vehicle_Base",
+      "before": 16,
+      "after": 16
+    }
+  ],
+  "materials": {
+    "V7_Mechanical_Graphite": {
+      "color": [
+        0.07000000029802322,
+        0.08500000089406967,
+        0.0949999988079071,
+        1.0
+      ],
+      "roughness": 0.6200000047683716,
+      "metallic": 0.0,
+      "transmission": 0.0
+    },
+    "V7_Rubber": {
+      "color": [
+        0.017999999225139618,
+        0.023000000044703484,
+        0.027000000700354576,
+        1.0
+      ],
+      "roughness": 0.7799999713897705,
+      "metallic": 0.0,
+      "transmission": 0.0
+    },
+    "V7_Lower_Graphite": {
+      "color": [
+        0.02800000086426735,
+        0.03500000014901161,
+        0.041999999433755875,
+        1.0
+      ],
+      "roughness": 0.6000000238418579,
+      "metallic": 0.0,
+      "transmission": 0.0
+    },
+    "V7_Pearl_White": {
+      "color": [
+        0.6800000071525574,
+        0.7099999785423279,
+        0.7200000286102295,
+        1.0
+      ],
+      "roughness": 0.3799999952316284,
+      "metallic": 0.11999999731779099,
+      "transmission": 0.0
+    },
+    "V7_Graphite": {
+      "color": [
+        0.02500000037252903,
+        0.035999998450279236,
+        0.04399999976158142,
+        1.0
+      ],
+      "roughness": 0.4300000071525574,
+      "metallic": 0.0,
+      "transmission": 0.0
+    },
+    "V7_Roof_Gray": {
+      "color": [
+        0.47999998927116394,
+        0.5299999713897705,
+        0.5600000023841858,
+        1.0
+      ],
+      "roughness": 0.38999998569488525,
+      "metallic": 0.11999999731779099,
+      "transmission": 0.0
+    },
+    "V7_Black_Visor": {
+      "color": [
+        0.006000000052154064,
+        0.008999999612569809,
+        0.014000000432133675,
+        1.0
+      ],
+      "roughness": 0.18000000715255737,
+      "metallic": 0.3199999928474426,
+      "transmission": 0.0
+    },
+    "V7_Green_Accent": {
+      "color": [
+        0.03500000014901161,
+        0.25999999046325684,
+        0.125,
+        1.0
+      ],
+      "roughness": 0.3799999952316284,
+      "metallic": 0.14000000059604645,
+      "transmission": 0.0
+    },
+    "V7_Optical_Window": {
+      "color": [
+        0.00800000037997961,
+        0.019999999552965164,
+        0.02800000086426735,
+        1.0
+      ],
+      "roughness": 0.1599999964237213,
+      "metallic": 0.0,
+      "transmission": 0.0
+    },
+    "V7_Island_Graphite": {
+      "color": [
+        0.004000000189989805,
+        0.006000000052154064,
+        0.00800000037997961,
+        1.0
+      ],
+      "roughness": 0.3799999952316284,
+      "metallic": 0.05000000074505806,
+      "transmission": 0.0
+    },
+    "V7_MID360_Aluminium": {
+      "color": [
+        0.47999998927116394,
+        0.5199999809265137,
+        0.5600000023841858,
+        1.0
+      ],
+      "roughness": 0.2800000011920929,
+      "metallic": 0.75,
+      "transmission": 0.0
+    },
+    "V7_MID360_Optical_Dome": {
+      "color": [
+        0.00800000037997961,
+        0.10999999940395355,
+        0.18000000715255737,
+        1.0
+      ],
+      "roughness": 0.14000000059604645,
+      "metallic": 0.47999998927116394,
+      "transmission": 0.0
+    },
+    "V7_Support_Clay": {
+      "color": [
+        0.15000000596046448,
+        0.18000000715255737,
+        0.20000000298023224,
+        1.0
+      ],
+      "roughness": 0.5600000023841858,
+      "metallic": 0.0,
+      "transmission": 0.0
+    },
+    "V7_Light_Lens": {
+      "color": [
+        0.8199999928474426,
+        0.9100000262260437,
+        1.0,
+        1.0
+      ],
+      "roughness": 0.18000000715255737,
+      "metallic": 0.0,
+      "transmission": 0.0
+    }
+  },
+  "ray_triangles": {
+    "Wheel_Front_Left": 1514,
+    "Wheel_Rear_Left": 1514,
+    "Wheel_Rear_Right": 1514,
+    "Vehicle_Base": 730350
+  },
+  "triangles": 737738,
+  "triangles_before": 1172697,
+  "wheel_centers_m": {
+    "Wheel_Front_Left": [
+      1.085,
+      0,
+      0.2
+    ],
+    "Wheel_Rear_Left": [
+      0,
+      0.518,
+      0.2
+    ],
+    "Wheel_Rear_Right": [
+      0,
+      -0.518,
+      0.2
+    ],
+    "Vehicle_Base": [
+      0,
+      0,
+      0
+    ]
+  },
+  "ground_offset_m": 0.2,
+  "front_wheel_raise_m": 0.011,
+  "bounds_m": [
+    [
+      -0.6259999871253967,
+      -1.0914963483810425,
+      -0.007771283388137817
+    ],
+    [
+      1.5940883159637451,
+      1.0915014743804932,
+      1.713097095489502
+    ]
+  ],
+  "source_project_relative": "清扫机器人/work/20260914-exterior-v7/Exterior-v7.blend",
+  "ray_excluded_sources": [
+    "V7_Top_MID360_Optical_Dome"
+  ],
+  "ray_bounds_m": [
+    [
+      -0.6259999871253967,
+      -1.0914963483810425,
+      -0.007771283388137817
+    ],
+    [
+      1.5940883159637451,
+      1.0915014743804932,
+      1.6924991607666016
+    ]
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "2026-09-15T08:48:57.634431+00:00",
+  "scope": "PC float replay on fixed six-camera/LiDAR inputs; candidate availability and unchanged inherited outputs",
+  "baseline": "/mnt/d/CARLA/runs/20260915-full-open-loop-01/heal-replay",
+  "shared": "/mnt/d/CARLA/runs/20260915-shared-head-open-loop-01/heal-live",
+  "frames": 581,
+  "missing_shared_frames": [],
+  "extra_shared_frames": [],
+  "inference_passed_frames": 581,
+  "timestamp_matches": 581,
+  "arrays": {
+    "float-heal-detections.npy": {
+      "compatible_frames": 581,
+      "finite_frames": 581,
+      "exact_frames": 581,
+      "dtype_equal_frames": 581,
+      "changed_elements": 0,
+      "max_abs": 0.0
+    },
+    "float-detections.npy": {
+      "compatible_frames": 581,
+      "finite_frames": 581,
+      "exact_frames": 581,
+      "dtype_equal_frames": 581,
+      "changed_elements": 0,
+      "max_abs": 0.0
+    },
+    "float-occupancy.npy": {
+      "compatible_frames": 581,
+      "finite_frames": 581,
+      "exact_frames": 581,
+      "dtype_equal_frames": 0,
+      "changed_elements": 0,
+      "max_abs": 0.0
+    },
+    "float-pedestrian-detections.npy": {
+      "compatible_frames": 581,
+      "finite_frames": 581,
+      "exact_frames": 581,
+      "dtype_equal_frames": 581,
+      "changed_elements": 0,
+      "max_abs": 0.0
+    }
+  },
+  "compact_labels_match_frames": 581,
+  "candidate_finite_frames": 581,
+  "views": {
+    "CAM_FRONT_LEFT": {
+      "index": 0,
+      "frames_with_candidates": 581,
+      "candidate_count_min_p50_p95_max": [
+        215.0,
+        227.0,
+        236.0,
+        238.0
+      ],
+      "truncated_frames": 0,
+      "frames_with_lines": 581,
+      "line_count_min_p50_p95_max": [
+        1.0,
+        6.0,
+        7.0,
+        8.0
+      ],
+      "unconnected_min_p50_p95_max": [
+        2.0,
+        10.0,
+        13.0,
+        19.0
+      ]
+    },
+    "CAM_BACK_LEFT": {
+      "index": 3,
+      "frames_with_candidates": 581,
+      "candidate_count_min_p50_p95_max": [
+        210.0,
+        235.0,
+        239.0,
+        243.0
+      ],
+      "truncated_frames": 0,
+      "frames_with_lines": 581,
+      "line_count_min_p50_p95_max": [
+        1.0,
+        2.0,
+        6.0,
+        9.0
+      ],
+      "unconnected_min_p50_p95_max": [
+        0.0,
+        7.0,
+        13.0,
+        23.0
+      ]
+    }
+  },
+  "max_connected_gap_px": 5.447027430655718,
+  "metric_valid_frames": 0,
+  "fine_work_permission_frames": 0,
+  "semantic_logical_bytes": [
+    1280000
+  ],
+  "candidate_logical_bytes": [
+    6658
+  ],
+  "curb_npz_bytes_min_p50_p95_max": [
+    11402.0,
+    11402.0,
+    11402.0,
+    11402.0
+  ],
+  "curb_json_bytes_min_p50_p95_max": [
+    63167.0,
+    65447.0,
+    66487.0,
+    68178.0
+  ],
+  "source_results_sha256": "a969ce0824600f0a215ba57abc9fa5b4a2c5658cb9aaccf65e36038f8c6fd81a",
+  "comparison_frames_sha256": "88850f41f6767514db532acb2c3ae2cad06c878ee5272cda76aa311d18ac76e5",
+  "script_sha256": "f783b1eacb6879f7f02dc1d1efe2b0a1a269519552d81a6a054876da72af076c",
+  "execution_completed": true,
+  "inherited_outputs_exact": true
+}

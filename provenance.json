@@ -1,0 +1,419 @@
+{
+  "schema": "horizon-curated-portfolio-v1",
+  "packaged_on": "2026-10-04",
+  "experiment_dates": [
+    "2026-09-08",
+    "2026-09-15"
+  ],
+  "source_scope": "project-relative origin paths; no credentials, binary runtimes or model weights",
+  "files": [
+    {
+      "file": "replay/input/litter-acceptance/cases.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/input/litter-acceptance/cases.json",
+      "role": "frozen-planning-replay",
+      "original_sha256": "a62b31afee9a5533c34163c14d12d8b3fd6e82adc75e599103dd937cfd1e9b1d",
+      "exported_sha256": "a62b31afee9a5533c34163c14d12d8b3fd6e82adc75e599103dd937cfd1e9b1d",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/input/litter-acceptance/observations.jsonl",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/input/litter-acceptance/observations.jsonl",
+      "role": "frozen-planning-replay",
+      "original_sha256": "5b259a926a64beff0847f9f4a7a822d99c6100a643c9a69798e734073a9f0445",
+      "exported_sha256": "5b259a926a64beff0847f9f4a7a822d99c6100a643c9a69798e734073a9f0445",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/input/source-manifest.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/input/source-manifest.json",
+      "role": "frozen-planning-replay",
+      "original_sha256": "efda4c3473d736c4864e0170bed9e0abaf07197d0cd415e0b0c7fbcc92e5084f",
+      "exported_sha256": "efda4c3473d736c4864e0170bed9e0abaf07197d0cd415e0b0c7fbcc92e5084f",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/requirements.txt",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/requirements.txt",
+      "role": "frozen-planning-replay",
+      "original_sha256": "17f570961d2ffb01b8428821378e8a06bec90f3ae97d86ea7e8bacf1dcf2a6ba",
+      "exported_sha256": "17f570961d2ffb01b8428821378e8a06bec90f3ae97d86ea7e8bacf1dcf2a6ba",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/simulation/carla-autoware/assets/tricycle-20260911/evidence/steering-limits.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/simulation/carla-autoware/assets/tricycle-20260911/evidence/steering-limits.json",
+      "role": "frozen-planning-replay",
+      "original_sha256": "13c1504dcbe22a2c1e5feaec0072367ee7dc8be2340ec850e00b8eee329f370c",
+      "exported_sha256": "13c1504dcbe22a2c1e5feaec0072367ee7dc8be2340ec850e00b8eee329f370c",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/simulation/carla-autoware/assets/tricycle-v7-20260915/evidence/geometry.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/simulation/carla-autoware/assets/tricycle-v7-20260915/evidence/geometry.json",
+      "role": "frozen-planning-replay",
+      "original_sha256": "5382cfb0d92d807b39d8eaf4b1119ad49d80b75cc3307a96763d4c557d93dc64",
+      "exported_sha256": "5382cfb0d92d807b39d8eaf4b1119ad49d80b75cc3307a96763d4c557d93dc64",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/simulation/carla-autoware/config/tricycle-navigation.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/simulation/carla-autoware/config/tricycle-navigation.json",
+      "role": "frozen-planning-replay",
+      "original_sha256": "b22d2f55d8978a6ae1305e7be29cf5abbf660b400fa4eb107bbf00522cb4a579",
+      "exported_sha256": "b22d2f55d8978a6ae1305e7be29cf5abbf660b400fa4eb107bbf00522cb4a579",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/simulation/carla-autoware/scripts/console_session.py",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/simulation/carla-autoware/scripts/console_session.py",
+      "role": "frozen-planning-replay",
+      "original_sha256": "c45710791b128fc02f6647e85a93b4c7e1a82e59afe798d37d22c5ca91a80a36",
+      "exported_sha256": "c45710791b128fc02f6647e85a93b4c7e1a82e59afe798d37d22c5ca91a80a36",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/simulation/carla-autoware/scripts/coverage_boustrophedon.py",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/simulation/carla-autoware/scripts/coverage_boustrophedon.py",
+      "role": "frozen-planning-replay",
+      "original_sha256": "e6cbd5df014b7fe92cd1b0f6bad6dbc1432b4a71306c37e845f563cd632906b6",
+      "exported_sha256": "e6cbd5df014b7fe92cd1b0f6bad6dbc1432b4a71306c37e845f563cd632906b6",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/simulation/carla-autoware/scripts/litter_observations.py",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/simulation/carla-autoware/scripts/litter_observations.py",
+      "role": "frozen-planning-replay",
+      "original_sha256": "6d5f3551e938854b04b8b738b1d1d3f3cfdb2a7add52b5011cb150b6b54f1764",
+      "exported_sha256": "6d5f3551e938854b04b8b738b1d1d3f3cfdb2a7add52b5011cb150b6b54f1764",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/simulation/carla-autoware/scripts/litter_routes.py",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/simulation/carla-autoware/scripts/litter_routes.py",
+      "role": "frozen-planning-replay",
+      "original_sha256": "15198ca57f3848321fe740390db6fbc4af46387bc92e460abd8a6200dd49ef22",
+      "exported_sha256": "15198ca57f3848321fe740390db6fbc4af46387bc92e460abd8a6200dd49ef22",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/simulation/carla-autoware/scripts/replay_litter_tasks.py",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/simulation/carla-autoware/scripts/replay_litter_tasks.py",
+      "role": "frozen-planning-replay",
+      "original_sha256": "43f1b53de4d39f97e6a5b06303ce40bbec93a9ac2e6fd0f1a8cdb594beb8a521",
+      "exported_sha256": "43f1b53de4d39f97e6a5b06303ce40bbec93a9ac2e6fd0f1a8cdb594beb8a521",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "replay/simulation/carla-autoware/scripts/tricycle_navigation.py",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-open-loop-01/application/simulation/carla-autoware/scripts/tricycle_navigation.py",
+      "role": "frozen-planning-replay",
+      "original_sha256": "d15ac5980caa65908e572e116b1516890a4322ae3dec045d1a20d4e8c64ac650",
+      "exported_sha256": "d15ac5980caa65908e572e116b1516890a4322ae3dec045d1a20d4e8c64ac650",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "src/perception/curb_geometry.py",
+      "origin": "dg202604/perception/curb_geometry.py",
+      "role": "source",
+      "original_sha256": "ecf1708be752ae8e9abf13c51f8bfd6178f2cecd39387b438d87a8bb519417b1",
+      "exported_sha256": "ecf1708be752ae8e9abf13c51f8bfd6178f2cecd39387b438d87a8bb519417b1",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "src/perception/heal/curb_head.py",
+      "origin": "dg202604/perception/heal/curb_head.py",
+      "role": "source",
+      "original_sha256": "cda52da082760e00877330752ed6f3eb3e9ea1d74c7fe8af813ac2989ea98eca",
+      "exported_sha256": "cda52da082760e00877330752ed6f3eb3e9ea1d74c7fe8af813ac2989ea98eca",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "src/perception/heal/curb_lines.py",
+      "origin": "dg202604/perception/heal/curb_lines.py",
+      "role": "source",
+      "original_sha256": "c256ab2036557a8a334be09f1f503210a20945c2995a2836acf1c4394787130b",
+      "exported_sha256": "c256ab2036557a8a334be09f1f503210a20945c2995a2836acf1c4394787130b",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "src/perception/heal/shared_model.py",
+      "origin": "dg202604/perception/heal/shared_model.py",
+      "role": "source",
+      "original_sha256": "ca5aff6f596553f49e63d83052abbd0246ed950f3ce597cd37494c94617c3927",
+      "exported_sha256": "ca5aff6f596553f49e63d83052abbd0246ed950f3ce597cd37494c94617c3927",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "src/perception/heal/semantics.py",
+      "origin": "dg202604/perception/heal/semantics.py",
+      "role": "source",
+      "original_sha256": "585288e4ee1f1da3e0e454fdab70e33f2afa7df9fdf49ba1f167e3a084b2b778",
+      "exported_sha256": "585288e4ee1f1da3e0e454fdab70e33f2afa7df9fdf49ba1f167e3a084b2b778",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "src/perception/local_world/__init__.py",
+      "origin": "dg202604/perception/local_world/__init__.py",
+      "role": "source",
+      "original_sha256": "ce5907d4e92c1c48d86be15ffa4067fca5f31f378509b74b67811d6c3d535eac",
+      "exported_sha256": "ce5907d4e92c1c48d86be15ffa4067fca5f31f378509b74b67811d6c3d535eac",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "src/perception/local_world/world.py",
+      "origin": "dg202604/perception/local_world/world.py",
+      "role": "source",
+      "original_sha256": "ec89d0e242463ba3d61a8928f621395985ee572fabb95bcd0407a312c1b26a0c",
+      "exported_sha256": "ec89d0e242463ba3d61a8928f621395985ee572fabb95bcd0407a312c1b26a0c",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "src/perception/local_world/motion.py",
+      "origin": "dg202604/perception/local_world/motion.py",
+      "role": "source",
+      "original_sha256": "74c322d0db6716a4fc4bdaf026d0c47aa4864f0d66b6507e527bad36ae40a323",
+      "exported_sha256": "74c322d0db6716a4fc4bdaf026d0c47aa4864f0d66b6507e527bad36ae40a323",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "src/perception/local_world/raycast.py",
+      "origin": "dg202604/perception/local_world/raycast.py",
+      "role": "source",
+      "original_sha256": "3432c900a081472401303dcecc40ca28b2bc86b6f9edcd8e2a78cc9eb12c9f5f",
+      "exported_sha256": "3432c900a081472401303dcecc40ca28b2bc86b6f9edcd8e2a78cc9eb12c9f5f",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "src/perception/local_world/ground_query.py",
+      "origin": "dg202604/perception/local_world/ground_query.py",
+      "role": "source",
+      "original_sha256": "3e8f9651949e634c38130c4147dcee1d820939b3c1cf2bbbbed12ff65a8c0ba4",
+      "exported_sha256": "3e8f9651949e634c38130c4147dcee1d820939b3c1cf2bbbbed12ff65a8c0ba4",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "tests/test_curb_geometry.py",
+      "origin": "dg202604/tests/test_curb_geometry.py",
+      "role": "existing-component-test",
+      "original_sha256": "9b611fd3dcaba1dee8f1d92969f6d477cb861c5279783505659f693ab88f9185",
+      "exported_sha256": "9b611fd3dcaba1dee8f1d92969f6d477cb861c5279783505659f693ab88f9185",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "reference/offline_coverage/coverage_geometry.py",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/source-snapshot/dg202604/src/dg202604/qloop/coverage_geometry.py",
+      "role": "frozen-4ws-experiment-source",
+      "original_sha256": "e6d27bf1ecb9aebd3c913ca8f060e6e29606b011879c546df579c98f4d267129",
+      "exported_sha256": "e6d27bf1ecb9aebd3c913ca8f060e6e29606b011879c546df579c98f4d267129",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "reference/offline_coverage/coverage_planning.py",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/source-snapshot/dg202604/src/dg202604/qloop/coverage_planning.py",
+      "role": "frozen-4ws-experiment-source",
+      "original_sha256": "08dccae01dd3bec332d3894f2eda0d14bb904d407d9a60ce20b420593c684ad7",
+      "exported_sha256": "08dccae01dd3bec332d3894f2eda0d14bb904d407d9a60ce20b420593c684ad7",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "reference/offline_coverage/coverage_execution.py",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/source-snapshot/dg202604/src/dg202604/qloop/coverage_execution.py",
+      "role": "frozen-4ws-experiment-source",
+      "original_sha256": "19cc0b4b94e41c509723ff82eb3decca25f07e971e3754f35bbd83621f946ab1",
+      "exported_sha256": "19cc0b4b94e41c509723ff82eb3decca25f07e971e3754f35bbd83621f946ab1",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "reference/offline_coverage/motion.py",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/source-snapshot/dg202604/src/dg202604/qloop/motion.py",
+      "role": "frozen-4ws-experiment-source",
+      "original_sha256": "98e45b42109da3e55bb7a781a948cee04aa80d6ee9b28d8298b9bd7bf14a05cf",
+      "exported_sha256": "98e45b42109da3e55bb7a781a948cee04aa80d6ee9b28d8298b9bd7bf14a05cf",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "evidence/localization/holdout-ndt.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-basemap-remote-01/holdout01/eval-ndt-v1/evaluation.json",
+      "role": "experiment-evidence",
+      "original_sha256": "eb5c444f495f5dc7b6268f0f4c34b6dc4f846f6ed74d6e6396153c96d2cf773e",
+      "exported_sha256": "c9119c1f87d83b9f681b6a00c31748e6123ad245b910baff5d3b716376057e84",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/localization/online-ndt.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-basemap-remote-01/online01/eval-ndt/evaluation.json",
+      "role": "experiment-evidence",
+      "original_sha256": "27e7241171f3dceecfb24169fe5147edc2f06ec4f2dfa11f0dad3f9356468546",
+      "exported_sha256": "c6ecf7c300ae074a3c7324da324706fe76e10c3c0c26a6dc09184d473780e382",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/localization/map-metrics.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-basemap-remote-01/long01/basemap-v1/metrics.json",
+      "role": "experiment-evidence",
+      "original_sha256": "3f3330c6b52af2a90a909ed39b86352aa0efdf3fb0dece2d8c4c69ab7402c417",
+      "exported_sha256": "cc033c56490703f3168d3067e8bbf162b05d0463cbaaded06a53383205ba82c2",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/localization/gnss-graph.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-basemap-remote-01/long01/gnss-graph-v1/report.json",
+      "role": "experiment-evidence",
+      "original_sha256": "cf86634bc238c81a46d097b486a39593e119d7c7bf262b2061d1c7913b93de4f",
+      "exported_sha256": "c6fb1578a60efef866434ec18f007ea5e955df0b5eb7d4fe1e34238fda2cb5e8",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/coverage/G3-A.json",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/E02-G3-A-v0.3-d0.0/result.json",
+      "role": "experiment-evidence",
+      "original_sha256": "99a728c6d4adf54e203a521fd6e8d63fe1e54e0425da5ca4aff57099643c08b6",
+      "exported_sha256": "efffef50d7edb10f942f24021daf493a62c825bc93b17ee0affe7c675a851ffd",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/coverage/G3-B.json",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/E02-G3-B-v0.3-d0.0/result.json",
+      "role": "experiment-evidence",
+      "original_sha256": "20bf6c13a30179b52f42a1511f30b69d85c463e8ba558c5af3bc12dda40522a9",
+      "exported_sha256": "62dc41c2742ecf9e73fd99539aea276118da30fcb38df00e20a3f70fbd5158dd",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/coverage/G3-C.json",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/E02-G3-C-v0.3-d0.0/result.json",
+      "role": "experiment-evidence",
+      "original_sha256": "8054983ba0eb4db08ce833ff93dd78308aef5ce2c63c0e5b64dd10cc4a02c250",
+      "exported_sha256": "3b71b389f8f6387d22a5be5f07056cafa9dd7af51899f4fb2518de0f390c5abd",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/coverage/development-comparison.json",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/analysis/E02/comparison.json",
+      "role": "experiment-evidence",
+      "original_sha256": "fe3b0ba202b40478d2417f7c86a7e006442f5d9f2056309b55ab02a18f4efb0a",
+      "exported_sha256": "c1c10d891dcb1b9740c88aa2cd903d34cc891aaf144aa50af763da56871f52d5",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/driving/scenario-result.json",
+      "origin": "dg202604/runs/20260915-curb-follow-13/scenario-result.json",
+      "role": "experiment-evidence",
+      "original_sha256": "b7b115aa824b09c8eaa9f4252e2dac2c988995a3240e6c7fc631332d27e4d202",
+      "exported_sha256": "5c1eb83689d648a8028e05b0cf5039500b801026be596468a7f0ff71e4f86dc2",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/driving/continuity-review.json",
+      "origin": "dg202604/runs/20260915-curb-follow-13/continuity-review.json",
+      "role": "experiment-evidence",
+      "original_sha256": "2f45b18eb1cbc22a6959822b8333b6f683606036dc5889be030a40a0a8b6f0a9",
+      "exported_sha256": "b7ee00f09cc634e18dfb3514e61fa5acb4e2416733d957350001e598948aedfe",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/cleaning/result.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-closure-02/litter-acceptance/result.json",
+      "role": "experiment-evidence",
+      "original_sha256": "867540643b66dc305315048c2d7d676b4f982a0fc18d6ff0dcd1a578a30f7924",
+      "exported_sha256": "183e89e6b3bad9c76a2d63ccfc1912164b949aea8347086f875c2796b536c073",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/cleaning/replay-and-motion.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-closure-02/litter-acceptance/replay-and-motion.json",
+      "role": "experiment-evidence",
+      "original_sha256": "6ed676021b3ff805d6e5ba6e9d14c26916f9bbe8607cbb532b4f92668d6e1563",
+      "exported_sha256": "5dee02e1bd2c9009503377769085e8fd8b63341bd1373fa85588f63d253faeb7",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/shared-head/training-summary.json",
+      "origin": "dg202604/runs/20260915-shared-head-01/training-summary.json",
+      "role": "experiment-evidence",
+      "original_sha256": "b4863136fc13e66785059dad4d0ee7020561c36de474fa59265e6b12fc58d9cd",
+      "exported_sha256": "6f560664ed616039470dcfce4d5fab0da6f3ec9008ae94939a569fd356096f37",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/shared-head/benchmark.json",
+      "origin": "dg202604/runs/20260915-shared-head-01/benchmarks/summary.json",
+      "role": "experiment-evidence",
+      "original_sha256": "ae43c7b15a425a39550a5a53da22b93031190716e5bb71098be7dd84c79d8dd2",
+      "exported_sha256": "46483b598ecbffff45da2f19fab202bf7a1cc26e27cc6742620b1c6fc87c7d67",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/shared-head/selected-diagnostics.json",
+      "origin": "dg202604/runs/20260915-shared-head-01/benchmarks/selected-diagnostics/result.json",
+      "role": "experiment-evidence",
+      "original_sha256": "403df3f804b4a9f258e216a5d6bb4d420eea1a2b4f7006ac262e9ec5bb24a135",
+      "exported_sha256": "07e475fb87f76ee5d729741cc57fb4a61968f98905ddde8ebeda3cf26dff53a8",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "evidence/shared-head/replay-comparison.json",
+      "origin": "simulation/carla-autoware/outputs/20260915-shared-head-open-loop-01/comparison.json",
+      "role": "experiment-evidence",
+      "original_sha256": "afc6eed3e3a1a0d5f3a67f066c88b9f725ebb988808aab6f5863b06bdcaf6db6",
+      "exported_sha256": "13a69ab4ba5bbe7c1d7047f6ae27dbeb7e54ae1f6f1399a2aa892bcba6fee37a",
+      "transformation": "JSON formatting; local paths/hostnames redacted; numerical fields retained"
+    },
+    {
+      "file": "assets/map-localization.png",
+      "origin": "simulation/carla-autoware/outputs/20260915-basemap-remote-01/result.png",
+      "role": "original-result-figure",
+      "original_sha256": "339b257b6bf1d1d7e6321bce3fd04332afc70c01b66ba8f6f06dffaf3beec8a6",
+      "exported_sha256": "339b257b6bf1d1d7e6321bce3fd04332afc70c01b66ba8f6f06dffaf3beec8a6",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "assets/curb-perception.png",
+      "origin": "dg202604/runs/20260915-shared-head-01/curb-perception-plate.png",
+      "role": "original-result-figure",
+      "original_sha256": "d5515c2eec3dc36dbf273c941a2b8ec06b6bacda00bc5c2118723a6017ef3291",
+      "exported_sha256": "d5515c2eec3dc36dbf273c941a2b8ec06b6bacda00bc5c2118723a6017ef3291",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "assets/shared-head-results.png",
+      "origin": "dg202604/runs/20260915-shared-head-01/shared-head-results.png",
+      "role": "original-result-figure",
+      "original_sha256": "50f09fed00cf1aa58a3423cdb95ff983e19445079b9fc2ef49e1bb1efbcd31d1",
+      "exported_sha256": "50f09fed00cf1aa58a3423cdb95ff983e19445079b9fc2ef49e1bb1efbcd31d1",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "assets/task-paths.png",
+      "origin": "simulation/carla-autoware/outputs/20260915-litter-closure-02/litter-acceptance/task-paths.png",
+      "role": "original-result-figure",
+      "original_sha256": "4f701e4956361b901a9b676c765a10a4eb1f5f72b392cf2a4effc24b996bbf7a",
+      "exported_sha256": "4f701e4956361b901a9b676c765a10a4eb1f5f72b392cf2a4effc24b996bbf7a",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "assets/coverage-G3-A.png",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/E02-G3-A-v0.3-d0.0/coverage.png",
+      "role": "original-result-figure",
+      "original_sha256": "ef89b8fde880d4102b83af115dd54ef6cd2573af995abd27fb9e2c206a9b81d8",
+      "exported_sha256": "ef89b8fde880d4102b83af115dd54ef6cd2573af995abd27fb9e2c206a9b81d8",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "assets/coverage-G3-C.png",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/E02-G3-C-v0.3-d0.0/coverage.png",
+      "role": "original-result-figure",
+      "original_sha256": "20231054b6d101df431a604ff9c6f0aaded09605ee5d677196c0f7cd4d7c617c",
+      "exported_sha256": "20231054b6d101df431a604ff9c6f0aaded09605ee5d677196c0f7cd4d7c617c",
+      "transformation": "byte-identical"
+    },
+    {
+      "file": "evidence/coverage/batch-summary.json",
+      "origin": "dg202604/runs/continuous-cleaning-v1/20260908-D01-D04-v1/summary.json",
+      "role": "experiment-evidence",
+      "original_sha256": "5338afdb8c40edef485b38dacaf6ca00b8e82c2766cf16b2660659f1c0ef4cc1",
+      "exported_sha256": "e7ac61825a3909db2f33d9e481bae14700a2dc50c0dd59edecb4568a063e3b19",
+      "transformation": "JSON formatting; numerical fields retained"
+    }
+  ]
+}

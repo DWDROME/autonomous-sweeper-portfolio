@@ -1,0 +1,167 @@
+{
+  "checkpoint_sha256": "08ecd965836df53b361153e5aecceb68713ff6b3edfa8c8cba03eaa6c53f4733",
+  "annotations_sha256": "d6ead496a08cba423163faaf34bc81ffb1d0ffbad8277f9168f82c3533b3067f",
+  "scope": "same-road capture-session holdout against AI reviewed RGB labels",
+  "candidates": 256,
+  "threshold": 0.3,
+  "pixel_tolerance": 4,
+  "work_views": [
+    0,
+    3
+  ],
+  "splits": {
+    "train": {
+      "visible_root_samples": 14471,
+      "recalled_root_samples": 14384,
+      "scored_candidates": 3590,
+      "correct_candidates": 3577,
+      "unscored_candidates": 392,
+      "missing_prediction_root_samples": 0,
+      "tolerance_px": 4.0,
+      "visible_root_recall": 0.9939879759519038,
+      "candidate_precision": 0.9963788300835654,
+      "candidate_false_positives": 13,
+      "f1": 0.9951819670554131,
+      "root_distance_p50_px": 1.2351994024962827,
+      "root_distance_p95_px": 2.11209756291598,
+      "prediction_distance_p50_px": 0.5753418326165399,
+      "prediction_distance_p95_px": 1.3586579225124373,
+      "truncated_views": 0,
+      "per_camera": {
+        "CAM_FRONT_LEFT": {
+          "visible_root_samples": 7227,
+          "recalled_root_samples": 7216,
+          "scored_candidates": 1778,
+          "correct_candidates": 1777,
+          "unscored_candidates": 187,
+          "missing_prediction_root_samples": 0,
+          "tolerance_px": 4.0,
+          "visible_root_recall": 0.9984779299847792,
+          "candidate_precision": 0.999437570303712,
+          "candidate_false_positives": 1,
+          "f1": 0.9989575196766554,
+          "root_distance_p50_px": 1.223065332981916,
+          "root_distance_p95_px": 2.0573420701072025,
+          "prediction_distance_p50_px": 0.562984909260917,
+          "prediction_distance_p95_px": 1.2677019529739117
+        },
+        "CAM_BACK_LEFT": {
+          "visible_root_samples": 7244,
+          "recalled_root_samples": 7168,
+          "scored_candidates": 1812,
+          "correct_candidates": 1800,
+          "unscored_candidates": 205,
+          "missing_prediction_root_samples": 0,
+          "tolerance_px": 4.0,
+          "visible_root_recall": 0.9895085588072888,
+          "candidate_precision": 0.9933774834437086,
+          "candidate_false_positives": 12,
+          "f1": 0.9914392466832151,
+          "root_distance_p50_px": 1.2433424062826368,
+          "root_distance_p95_px": 2.1655774133306305,
+          "prediction_distance_p50_px": 0.5846449176671926,
+          "prediction_distance_p95_px": 1.5342622160492045
+        }
+      }
+    },
+    "validation": {
+      "visible_root_samples": 13568,
+      "recalled_root_samples": 13499,
+      "scored_candidates": 3382,
+      "correct_candidates": 3381,
+      "unscored_candidates": 312,
+      "missing_prediction_root_samples": 0,
+      "tolerance_px": 4.0,
+      "visible_root_recall": 0.9949145047169812,
+      "candidate_precision": 0.9997043169722057,
+      "candidate_false_positives": 1,
+      "f1": 0.9973036597955232,
+      "root_distance_p50_px": 1.272331562403725,
+      "root_distance_p95_px": 2.133235170765981,
+      "prediction_distance_p50_px": 0.5928709752750797,
+      "prediction_distance_p95_px": 1.5662626324903974,
+      "truncated_views": 0,
+      "per_camera": {
+        "CAM_FRONT_LEFT": {
+          "visible_root_samples": 6784,
+          "recalled_root_samples": 6784,
+          "scored_candidates": 1705,
+          "correct_candidates": 1705,
+          "unscored_candidates": 122,
+          "missing_prediction_root_samples": 0,
+          "tolerance_px": 4.0,
+          "visible_root_recall": 1.0,
+          "candidate_precision": 1.0,
+          "candidate_false_positives": 0,
+          "f1": 1.0,
+          "root_distance_p50_px": 1.2836332105061312,
+          "root_distance_p95_px": 2.172906657870573,
+          "prediction_distance_p50_px": 0.5984071769950213,
+          "prediction_distance_p95_px": 1.642479555733743
+        },
+        "CAM_BACK_LEFT": {
+          "visible_root_samples": 6784,
+          "recalled_root_samples": 6715,
+          "scored_candidates": 1677,
+          "correct_candidates": 1676,
+          "unscored_candidates": 190,
+          "missing_prediction_root_samples": 0,
+          "tolerance_px": 4.0,
+          "visible_root_recall": 0.9898290094339622,
+          "candidate_precision": 0.9994036970781157,
+          "candidate_false_positives": 1,
+          "f1": 0.9945933105413322,
+          "root_distance_p50_px": 1.2592445449137262,
+          "root_distance_p95_px": 2.1049216166431943,
+          "prediction_distance_p50_px": 0.5874091819434915,
+          "prediction_distance_p95_px": 1.3773875112716583
+        }
+      }
+    }
+  },
+  "timing": {
+    "scope": "two views of the first validation frame; CUDA decoder plus synchronization and CPU connection measured separately",
+    "gpu": "NVIDIA GeForce RTX 4090 D",
+    "warmup": 100,
+    "decoder_iterations": 500,
+    "cpu_connection_iterations": 100,
+    "candidate_limits": {
+      "64": {
+        "cuda_decoder_p50_p95_p99_ms": [
+          0.2582750003057299,
+          0.3352420008013723,
+          0.6295060192678646
+        ],
+        "cpu_connection_p50_p95_p99_ms": [
+          1.5923604996714857,
+          1.8162312003369152,
+          2.598281019581936
+        ]
+      },
+      "128": {
+        "cuda_decoder_p50_p95_p99_ms": [
+          0.26052500015794067,
+          0.32861004920050596,
+          0.43434206872916525
+        ],
+        "cpu_connection_p50_p95_p99_ms": [
+          3.392509000150312,
+          4.059458100073243,
+          7.630617630165949
+        ]
+      },
+      "256": {
+        "cuda_decoder_p50_p95_p99_ms": [
+          0.26106600125785917,
+          0.2987309984746388,
+          0.4316050501438438
+        ],
+        "cpu_connection_p50_p95_p99_ms": [
+          6.994911000219872,
+          7.30427479957143,
+          8.251860750824576
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "task_id": "G3",
+  "evidence_scope": "offline geometric evaluation of supplied trace; not dirt removal, real vehicle safety, or J6 evidence",
+  "method": {
+    "grid_resolution_m": 0.05,
+    "grid_origin_xz_m": [
+      -8.05,
+      -2.25
+    ],
+    "grid_shape_zx": [
+      210,
+      202
+    ],
+    "substep_max_edge_motion_m": 0.025,
+    "interpolation": "linear vehicle translation, shortest yaw, linear relative shape geometry",
+    "off_transition": "no effective sweep interpolated across unequal effective states; observed endpoints retained",
+    "repeat_definition": "new pass only after vehicle revisit-radius envelope leaves cell",
+    "revisit_radius_m": 1.1,
+    "required_brush_radius_m": 1.0539079378767267,
+    "area_accuracy": "centre raster approximation; compare half-resolution; sub-grid features may be missed",
+    "trace_samples": 8793,
+    "interpolated_samples": 13502,
+    "start_t": 0.0,
+    "end_t": 865.46,
+    "max_observation_gap_s": 0.10000000000002274
+  },
+  "coverage": {
+    "area_m2": 20.0,
+    "covered_area_m2": 19.922500000000003,
+    "missed_area_m2": 0.07750000000000001,
+    "coverage_ratio": 0.996125
+  },
+  "edge": {
+    "area_m2": 4.6325,
+    "covered_area_m2": 4.580000000000001,
+    "missed_area_m2": 0.052500000000000005,
+    "coverage_ratio": 0.9886670264436049
+  },
+  "corners": [
+    {
+      "vertex_xz_m": [
+        0.0,
+        0.0
+      ],
+      "area_m2": 0.1975,
+      "covered_area_m2": 0.1975,
+      "missed_area_m2": 0.0,
+      "coverage_ratio": 1.0
+    },
+    {
+      "vertex_xz_m": [
+        0.0,
+        6.0
+      ],
+      "area_m2": 0.1975,
+      "covered_area_m2": 0.1975,
+      "missed_area_m2": 0.0,
+      "coverage_ratio": 1.0
+    },
+    {
+      "vertex_xz_m": [
+        -2.0,
+        6.0
+      ],
+      "area_m2": 0.1975,
+      "covered_area_m2": 0.1975,
+      "missed_area_m2": 0.0,
+      "coverage_ratio": 1.0
+    },
+    {
+      "vertex_xz_m": [
+        -2.0,
+        2.0
+      ],
+      "area_m2": 0.5925000000000001,
+      "covered_area_m2": 0.5925000000000001,
+      "missed_area_m2": 0.0,
+      "coverage_ratio": 1.0
+    },
+    {
+      "vertex_xz_m": [
+        -6.0,
+        2.0
+      ],
+      "area_m2": 0.1975,
+      "covered_area_m2": 0.1975,
+      "missed_area_m2": 0.0,
+      "coverage_ratio": 1.0
+    },
+    {
+      "vertex_xz_m": [
+        -6.0,
+        0.0
+      ],
+      "area_m2": 0.1975,
+      "covered_area_m2": 0.1975,
+      "missed_area_m2": 0.0,
+      "coverage_ratio": 1.0
+    }
+  ],
+  "repeat": {
+    "repeated_area_m2": 16.055000000000003,
+    "repeated_target_ratio": 0.80275,
+    "extra_pass_area_m2": 20.087500000000002,
+    "extra_pass_area_per_covered_area": 1.0082820931108043,
+    "max_passes": 4
+  },
+  "motion": {
+    "path_length_m": 158.60293042557254,
+    "elapsed_s": 865.46,
+    "final_speed_mps": 0.0,
+    "stable_stop_duration_s": 2.060000000000059,
+    "stable_final_stop": true,
+    "stuck_diagnostic": false,
+    "stuck_events": [],
+    "diagnostic_settings": {
+      "stop_speed_mps": 0.05,
+      "stop_duration_s": 2,
+      "stop_drift_m": 0.1,
+      "stop_yaw_rate_rad_s": 0.05,
+      "stuck_window_s": 10.0,
+      "stuck_displacement_m": 0.1,
+      "moving_phases": [
+        "moving",
+        "running",
+        "sweeping",
+        "executing"
+      ]
+    },
+    "threshold_origin": "predeclared simulation diagnostics, not competition or vehicle safety limits",
+    "active_tool_time_s": 126.40000000000008,
+    "unique_coverage_m2_per_s": 0.023019550296951914,
+    "unique_coverage_m2_per_m": 0.125612433178522
+  },
+  "safety": {
+    "tool_forbidden": {
+      "entries": 0,
+      "sampled_duration_s": 0.0,
+      "swept_area_m2": 0.0
+    },
+    "body_forbidden": {
+      "entries": 0,
+      "sampled_duration_s": 0.0,
+      "swept_area_m2": 0.0
+    },
+    "tool_outside_allowed": {
+      "entries": 0,
+      "sampled_duration_s": 0.0,
+      "swept_area_m2": 0.0
+    },
+    "body_outside_allowed": {
+      "entries": 0,
+      "sampled_duration_s": 0.0,
+      "swept_area_m2": 0.0
+    },
+    "collision_count": 0,
+    "collision_count_initial": 0,
+    "collision_count_final": 0,
+    "collision_source": "offline_conservative_geometry_check",
+    "temporary_blocked_target_area_m2": 0.0
+  },
+  "completion": {
+    "status_present": true,
+    "executor_status": "completed",
+    "executor_reason": "stable_goal",
+    "arrival_seen": true,
+    "trace_bounds_complete": true,
+    "stable_final_stop": true,
+    "completed": true
+  },
+  "provenance": {
+    "task_canonical_sha256": "e8e8b48dca42102e79ec2bb8b8e14d3e7c57c427a9d4fadb437a6535930f64b8",
+    "trace_canonical_sha256": "e869b98a7eb1ece753447e2bc4f5b56d55d38b8636b9d23894b294aae657e68b",
+    "status_canonical_sha256": "67ba1f29adc6f9dff18e8a038bede16b5bb60981f8d3f481df4f161152806a30",
+    "evaluator_sha256": "b6587a2e78e3abd588f5e1649ce79bcce6dbd108c66903c4c28a58e4dd0d9158",
+    "output_sha256": {
+      "masks.npz": "85a26c168e88d400d7606315571c4b065cbcecdb7a48e0b73e7295aed29b15af",
+      "coverage.png": "de05ef7b94a86591b48b977a39d25b33796356a9466fd9ffeba8a395e71770cc"
+    }
+  },
+  "offline_execution": {
+    "planning_status": "planned",
+    "process_s": 1.2813971250002396,
+    "trajectory_complete": true,
+    "coverage_complete": false,
+    "independent_cleanliness_verified": false,
+    "status": {
+      "status": "completed",
+      "reason": "stable_goal",
+      "arrival_seen": true,
+      "start_t": 0.0,
+      "end_t": 865.46,
+      "position_error_m": 0.012396082816474318,
+      "yaw_error_rad": 0.021020834079431783,
+      "max_tracking_error_m": 0.04002438368735353,
+      "direction_segments": 34,
+      "evidence": "offline_kinematic_feedback_tracking"
+    },
+    "trace_policy": "0.02s kinematic states retained; evaluation trace every 0.1s plus actuator and phase transitions"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "completed": true,
+  "runs": 12,
+  "seeds": [
+    11,
+    22,
+    33
+  ],
+  "epochs": 60,
+  "optimizer_updates_per_run": 1200,
+  "batch_size": 8,
+  "learning_rate": 0.0003,
+  "decoder": "cross-section maxima along either image axis, K=256, threshold=0.3",
+  "label_source": "GPT-6 direct RGB review and RGB-only contact-edge refinement",
+  "data": {
+    "train_capture_sessions": 2,
+    "train_frames": 12,
+    "train_work_images": 24,
+    "validation_capture_sessions": 1,
+    "validation_frames": 8,
+    "validation_work_images": 16,
+    "scene_groups": 1
+  },
+  "scope": "same-road capture-session holdout against AI pixel annotations",
+  "pixel_tolerance": 4,
+  "methods": {
+    "R0": {
+      "visible_root_recall": {
+        "values": [
+          0.9947670990566038,
+          0.9949145047169812,
+          0.9949145047169812
+        ],
+        "mean": 0.9948653694968553,
+        "std": 8.51046976989715e-05
+      },
+      "candidate_precision": {
+        "values": [
+          1.0,
+          0.9997043169722057,
+          1.0
+        ],
+        "mean": 0.9999014389907352,
+        "std": 0.00017071267569181842
+      },
+      "root_distance_p95_px": {
+        "values": [
+          2.044999681548316,
+          2.133235170765981,
+          2.2646816086426815
+        ],
+        "mean": 2.147638820318993,
+        "std": 0.11054698599829865
+      },
+      "prediction_distance_p95_px": {
+        "values": [
+          1.3673382948412536,
+          1.5662626324903974,
+          1.7850991843574608
+        ],
+        "mean": 1.5729000372297037,
+        "std": 0.20895952133989543
+      },
+      "head_parameters": 30663,
+      "truncated_views": [
+        1,
+        0,
+        0
+      ]
+    },
+    "R2": {
+      "visible_root_recall": {
+        "values": [
+          0.9952093160377359,
+          0.9952093160377359,
+          0.9952830188679245
+        ],
+        "mean": 0.9952338836477987,
+        "std": 4.255234884942165e-05
+      },
+      "candidate_precision": {
+        "values": [
+          1.0,
+          0.9997040544539805,
+          1.0
+        ],
+        "mean": 0.9999013514846601,
+        "std": 0.00017086424065984474
+      },
+      "root_distance_p95_px": {
+        "values": [
+          2.1358892323022065,
+          2.0386454075244393,
+          2.12634181357632
+        ],
+        "mean": 2.100292151134322,
+        "std": 0.05360064411328288
+      },
+      "prediction_distance_p95_px": {
+        "values": [
+          1.570377307000546,
+          1.1976907222020716,
+          1.5061962756442986
+        ],
+        "mean": 1.4247547682823054,
+        "std": 0.19924447787387434
+      },
+      "head_parameters": 18311,
+      "truncated_views": [
+        0,
+        0,
+        6
+      ]
+    },
+    "R3": {
+      "visible_root_recall": {
+        "values": [
+          0.9935878537735849,
+          0.9943985849056604,
+          0.9955778301886793
+        ],
+        "mean": 0.9945214229559749,
+        "std": 0.0010006589944190501
+      },
+      "candidate_precision": {
+        "values": [
+          0.9991184249191889,
+          0.9979429914781075,
+          0.9988290398126464
+        ],
+        "mean": 0.998630152069981,
+        "std": 0.0006124362776975507
+      },
+      "root_distance_p95_px": {
+        "values": [
+          2.602402950336481,
+          2.73525959407259,
+          2.603969825000862
+        ],
+        "mean": 2.6472107898033106,
+        "std": 0.07625652577970495
+      },
+      "prediction_distance_p95_px": {
+        "values": [
+          2.281288062759538,
+          2.462839835646835,
+          2.3061141051918956
+        ],
+        "mean": 2.3500806678660897,
+        "std": 0.09843807969819425
+      },
+      "head_parameters": 30533,
+      "truncated_views": [
+        0,
+        0,
+        0
+      ]
+    },
+    "R4": {
+      "visible_root_recall": {
+        "values": [
+          0.9932193396226415,
+          0.9946196933962265,
+          0.9949882075471698
+        ],
+        "mean": 0.9942757468553459,
+        "std": 0.0009332458683776639
+      },
+      "candidate_precision": {
+        "values": [
+          0.9997062279670975,
+          0.9985154394299287,
+          0.9973622508792497
+        ],
+        "mean": 0.9985279727587586,
+        "std": 0.0011720388049623511
+      },
+      "root_distance_p95_px": {
+        "values": [
+          2.3569768807719718,
+          2.532620729691656,
+          2.6309488483250867
+        ],
+        "mean": 2.506848819596238,
+        "std": 0.13879230260971245
+      },
+      "prediction_distance_p95_px": {
+        "values": [
+          1.9084962782678914,
+          2.1351814239214346,
+          2.336897866419722
+        ],
+        "mean": 2.1268585228696826,
+        "std": 0.21432203151843876
+      },
+      "head_parameters": 30403,
+      "truncated_views": [
+        0,
+        8,
+        0
+      ]
+    }
+  },
+  "selected_checkpoint": "training-03/R0-seed-22/best.pt",
+  "selected_sha256": "08ecd965836df53b361153e5aecceb68713ff6b3edfa8c8cba03eaa6c53f4733"
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-04",
+  "scope": "curated package and lightweight offline examples",
+  "curb_component_tests": {
+    "passed": true,
+    "tests": 18,
+    "python": "3.10.7",
+    "numpy": "1.26.4",
+    "cases": "existing synthetic profiles: supported roots, ramps, mixed faces, missing columns and empty ground"
+  },
+  "curb_demo": {
+    "passed": true,
+    "segments": 2,
+    "source": "synthetic 12 cm step with 0.4 m gap"
+  },
+  "planning_replay": {
+    "passed": true,
+    "requested": 15,
+    "completed": 15,
+    "snapshots": 5,
+    "repetitions": 3,
+    "position_max_m": 0.0,
+    "yaw_max_rad": 0.0,
+    "platform": "WSL Linux x86_64",
+    "python": "3.12.3",
+    "numpy": "1.26.4",
+    "shapely": "2.0.3"
+  },
+  "package_checks": {
+    "parsed_python_files": 24,
+    "provenance_files_checked": 51,
+    "preserved_numeric_fields": 4603,
+    "credential_and_local_account_scan": "passed",
+    "valid_local_links": 48
+  },
+  "historical_experiments_rerun": false,
+  "remaining": "CARLA/NDT/HEAL full experiments, full 4WS native experiment, J6 stack and physical cleaning were not rerun for this export"
+}

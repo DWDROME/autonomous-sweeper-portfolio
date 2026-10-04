@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "rows": [
+    {
+      "input": -1,
+      "wheel_angles_deg": [
+        -45.0,
+        0.0,
+        0.0
+      ],
+      "speed_mps": 4.222378720442066e-06
+    },
+    {
+      "input": 1,
+      "wheel_angles_deg": [
+        45.0,
+        0.0,
+        0.0
+      ],
+      "speed_mps": 1.5792075203080458e-07
+    },
+    {
+      "input": 0,
+      "wheel_angles_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "speed_mps": 0.0
+    }
+  ]
+}

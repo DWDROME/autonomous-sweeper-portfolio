@@ -1,0 +1,49 @@
+{
+  "validation_level": "Autoware NDT recorded-session component replay",
+  "initial_pose": {
+    "stamp_s": 2253.1586841420003,
+    "xyz": [
+      366.6765213172613,
+      -1.9610585563310732,
+      -0.6749917089939117
+    ],
+    "yaw_deg": -2.064838443093238,
+    "heading_track_m": 2.0,
+    "altitude_ref_m": 1.1162088364362717
+  },
+  "frames": 1230,
+  "accepted": 1222,
+  "accepted_rate": 0.9934959349593496,
+  "wall_s": {
+    "mean": 0.051428786919989845,
+    "p50": 0.047635573078878224,
+    "p95": 0.05892495276639238,
+    "max": 0.5446509188041091
+  },
+  "errors": {
+    "longitudinal_m": {
+      "bias": 0.00554906849881112,
+      "p50": 0.028482088207316757,
+      "p95": 0.07625607863129358,
+      "max": 0.16087949959896472
+    },
+    "lateral_m": {
+      "bias": 0.0043040763025285755,
+      "p50": 0.04488433917186911,
+      "p95": 0.08782104749927903,
+      "max": 0.10080084984190772
+    },
+    "heading_deg": {
+      "bias": -0.009145495877727564,
+      "p50": 0.043175474495701124,
+      "p95": 0.1618420340973082,
+      "max": 2.070713299865106
+    }
+  },
+  "inputs": {
+    "session": "<local>/CARLA/basemap/20260915-01/holdout01",
+    "basemap": "<local>/CARLA/basemap/20260915-01/long01/basemap-v1",
+    "map_sha256": "952cae5c05dbe66111a0b8f9da291ec8e6aaa70c5623ca4b7fdda8b755041663"
+  },
+  "truth_scope": "read after localization, by score() only"
+}

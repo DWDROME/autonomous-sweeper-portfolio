@@ -1,0 +1,331 @@
+{
+  "scope": "offline geometric/kinematic research; no cleanliness or physical claim",
+  "rows": [
+    {
+      "run": "E02-G1-A-v0.3-d0.0",
+      "scene": "G1",
+      "method": "A",
+      "status": "completed",
+      "reason": "stable_goal",
+      "coverage_pct": 69.23177083333333,
+      "edge_coverage_pct": 47.490530303030305,
+      "elapsed_s": 174.2,
+      "common_time_budgets": [
+        {
+          "seconds": 174.2,
+          "coverage_ratio": 0.6923177083333333
+        },
+        {
+          "seconds": 217.75,
+          "coverage_ratio": 0.6923177083333333
+        },
+        {
+          "seconds": 261.29999999999995,
+          "coverage_ratio": 0.6923177083333333
+        }
+      ],
+      "half_grid_coverage_pct": 69.228515625,
+      "half_grid_delta_pp": -0.0032552083333303727,
+      "half_grid_edge_delta_pp": -0.011837121212121549,
+      "common_coverage_reference_method": "A",
+      "common_covered_area_m2": 13.292500000000002,
+      "time_to_common_covered_area_s": 106.7,
+      "recomputation_equal": true,
+      "fixed_world_target_equal": true
+    },
+    {
+      "run": "E02-G1-B-v0.3-d0.0",
+      "scene": "G1",
+      "method": "B",
+      "status": "completed",
+      "reason": "stable_goal",
+      "coverage_pct": 99.51822916666667,
+      "edge_coverage_pct": 98.67424242424242,
+      "elapsed_s": 622.42,
+      "common_time_budgets": [
+        {
+          "seconds": 174.2,
+          "coverage_ratio": 0.6923177083333333
+        },
+        {
+          "seconds": 217.75,
+          "coverage_ratio": 0.716796875
+        },
+        {
+          "seconds": 261.29999999999995,
+          "coverage_ratio": 0.716796875
+        }
+      ],
+      "half_grid_coverage_pct": 99.45638020833333,
+      "half_grid_delta_pp": -0.061848958333343695,
+      "half_grid_edge_delta_pp": -0.07102272727271819,
+      "common_coverage_reference_method": "A",
+      "common_covered_area_m2": 13.292500000000002,
+      "time_to_common_covered_area_s": 106.7,
+      "recomputation_equal": true,
+      "fixed_world_target_equal": true
+    },
+    {
+      "run": "E02-G1-C-v0.3-d0.0",
+      "scene": "G1",
+      "method": "C",
+      "status": "completed",
+      "reason": "stable_goal",
+      "coverage_pct": 99.81770833333333,
+      "edge_coverage_pct": 99.62121212121212,
+      "elapsed_s": 455.62,
+      "common_time_budgets": [
+        {
+          "seconds": 174.2,
+          "coverage_ratio": 0.698828125
+        },
+        {
+          "seconds": 217.75,
+          "coverage_ratio": 0.7307291666666667
+        },
+        {
+          "seconds": 261.29999999999995,
+          "coverage_ratio": 0.94453125
+        }
+      ],
+      "half_grid_coverage_pct": 99.83072916666667,
+      "half_grid_delta_pp": 0.013020833333332593,
+      "half_grid_edge_delta_pp": 0.0,
+      "common_coverage_reference_method": "A",
+      "common_covered_area_m2": 13.292500000000002,
+      "time_to_common_covered_area_s": 89.35,
+      "recomputation_equal": true,
+      "fixed_world_target_equal": true
+    },
+    {
+      "run": "E02-G2-A-v0.3-d0.0",
+      "scene": "G2",
+      "method": "A",
+      "status": "completed",
+      "reason": "stable_goal",
+      "coverage_pct": 90.52083333333333,
+      "edge_coverage_pct": 52.71139705882353,
+      "elapsed_s": 551.9,
+      "common_time_budgets": [
+        {
+          "seconds": 551.9,
+          "coverage_ratio": 0.9052083333333333
+        },
+        {
+          "seconds": 689.875,
+          "coverage_ratio": 0.9052083333333333
+        },
+        {
+          "seconds": 827.8499999999999,
+          "coverage_ratio": 0.9052083333333333
+        }
+      ],
+      "half_grid_coverage_pct": 90.50651041666666,
+      "half_grid_delta_pp": -0.014322916666664742,
+      "half_grid_edge_delta_pp": -0.022977941176471894,
+      "common_coverage_reference_method": "A",
+      "common_covered_area_m2": 43.45,
+      "time_to_common_covered_area_s": 479.5,
+      "recomputation_equal": true,
+      "fixed_world_target_equal": true
+    },
+    {
+      "run": "E02-G2-B-v0.3-d0.0",
+      "scene": "G2",
+      "method": "B",
+      "status": "timeout",
+      "reason": "kinematic_task_time_limit",
+      "coverage_pct": 99.86979166666666,
+      "edge_coverage_pct": 99.21875,
+      "elapsed_s": 902.5,
+      "common_time_budgets": [
+        {
+          "seconds": 551.9,
+          "coverage_ratio": 0.9113020833333333
+        },
+        {
+          "seconds": 689.875,
+          "coverage_ratio": 0.9705729166666667
+        },
+        {
+          "seconds": 827.8499999999999,
+          "coverage_ratio": 0.991875
+        }
+      ],
+      "half_grid_coverage_pct": 99.86458333333333,
+      "half_grid_delta_pp": -0.005208333333328596,
+      "half_grid_edge_delta_pp": -0.03446691176470784,
+      "common_coverage_reference_method": "A",
+      "common_covered_area_m2": 43.45,
+      "time_to_common_covered_area_s": 479.5,
+      "recomputation_equal": true,
+      "fixed_world_target_equal": true
+    },
+    {
+      "run": "E02-G2-C-v0.3-d0.0",
+      "scene": "G2",
+      "method": "C",
+      "status": "completed",
+      "reason": "stable_goal",
+      "coverage_pct": 99.94791666666667,
+      "edge_coverage_pct": 99.63235294117648,
+      "elapsed_s": 788.66,
+      "common_time_budgets": [
+        {
+          "seconds": 551.9,
+          "coverage_ratio": 0.9502083333333333
+        },
+        {
+          "seconds": 689.875,
+          "coverage_ratio": 0.9969270833333334
+        },
+        {
+          "seconds": 827.8499999999999,
+          "coverage_ratio": 0.9994791666666667
+        }
+      ],
+      "half_grid_coverage_pct": 99.94791666666667,
+      "half_grid_delta_pp": 0.0,
+      "half_grid_edge_delta_pp": 0.0,
+      "common_coverage_reference_method": "A",
+      "common_covered_area_m2": 43.45,
+      "time_to_common_covered_area_s": 445.45,
+      "recomputation_equal": true,
+      "fixed_world_target_equal": true
+    },
+    {
+      "run": "E02-G3-A-v0.3-d0.0",
+      "scene": "G3",
+      "method": "A",
+      "status": "completed",
+      "reason": "stable_goal",
+      "coverage_pct": 80.525,
+      "edge_coverage_pct": 54.61413923367512,
+      "elapsed_s": 397.72,
+      "common_time_budgets": [
+        {
+          "seconds": 397.72,
+          "coverage_ratio": 0.80525
+        },
+        {
+          "seconds": 497.15000000000003,
+          "coverage_ratio": 0.80525
+        },
+        {
+          "seconds": 596.58,
+          "coverage_ratio": 0.80525
+        }
+      ],
+      "half_grid_coverage_pct": 80.525,
+      "half_grid_delta_pp": 0.0,
+      "half_grid_edge_delta_pp": 0.09444144630329498,
+      "common_coverage_reference_method": "A",
+      "common_covered_area_m2": 16.105,
+      "time_to_common_covered_area_s": 349.6,
+      "recomputation_equal": true,
+      "fixed_world_target_equal": true
+    },
+    {
+      "run": "E02-G3-B-v0.3-d0.0",
+      "scene": "G3",
+      "method": "B",
+      "status": "completed",
+      "reason": "stable_goal",
+      "coverage_pct": 99.6125,
+      "edge_coverage_pct": 98.86670264436049,
+      "elapsed_s": 865.46,
+      "common_time_budgets": [
+        {
+          "seconds": 397.72,
+          "coverage_ratio": 0.839375
+        },
+        {
+          "seconds": 497.15000000000003,
+          "coverage_ratio": 0.88325
+        },
+        {
+          "seconds": 596.58,
+          "coverage_ratio": 0.88425
+        }
+      ],
+      "half_grid_coverage_pct": 99.61875,
+      "half_grid_delta_pp": 0.006249999999996536,
+      "half_grid_edge_delta_pp": 0.0,
+      "common_coverage_reference_method": "A",
+      "common_covered_area_m2": 16.105,
+      "time_to_common_covered_area_s": 349.6,
+      "recomputation_equal": true,
+      "fixed_world_target_equal": true
+    },
+    {
+      "run": "E02-G3-C-v0.3-d0.0",
+      "scene": "G3",
+      "method": "C",
+      "status": "completed",
+      "reason": "stable_goal",
+      "coverage_pct": 99.875,
+      "edge_coverage_pct": 99.5682676740421,
+      "elapsed_s": 661.46,
+      "common_time_budgets": [
+        {
+          "seconds": 397.72,
+          "coverage_ratio": 0.922625
+        },
+        {
+          "seconds": 497.15000000000003,
+          "coverage_ratio": 0.941375
+        },
+        {
+          "seconds": 596.58,
+          "coverage_ratio": 0.987125
+        }
+      ],
+      "half_grid_coverage_pct": 99.8625,
+      "half_grid_delta_pp": -0.012500000000004174,
+      "half_grid_edge_delta_pp": 0.0,
+      "common_coverage_reference_method": "A",
+      "common_covered_area_m2": 16.105,
+      "time_to_common_covered_area_s": 261.6,
+      "recomputation_equal": true,
+      "fixed_world_target_equal": true
+    }
+  ],
+  "groups": [
+    {
+      "comparison_key": "fa648a055cba7a3a348cc4dc28ebc247bc77e3c244764bc70a579ac7eed94db9",
+      "methods": [
+        "A",
+        "B",
+        "C"
+      ],
+      "grid_ranking_changed": false,
+      "quarter_grid_refined": false,
+      "time_reference_method": "A"
+    },
+    {
+      "comparison_key": "1c82d160a41666bb7192b7184ce80923375649b25e4c63fba73f1154f77d4da1",
+      "methods": [
+        "A",
+        "B",
+        "C"
+      ],
+      "grid_ranking_changed": false,
+      "quarter_grid_refined": false,
+      "time_reference_method": "A"
+    },
+    {
+      "comparison_key": "26f86540bce6e2a97b83e0b517921981d9053bdbde9f11599d6d634ecb9a4d47",
+      "methods": [
+        "A",
+        "B",
+        "C"
+      ],
+      "grid_ranking_changed": false,
+      "quarter_grid_refined": false,
+      "time_reference_method": "A"
+    }
+  ],
+  "comparison_source_sha256": "efe06a205012e8a3dfd7b29849cd8c9c7cafacd9b9db46235a6abf5e9e69f471",
+  "evaluator_source_sha256": "b6587a2e78e3abd588f5e1649ce79bcce6dbd108c66903c4c28a58e4dd0d9158",
+  "budget_policy": "reference completion time times 1/1.25/1.5, capped at the fixed task budget"
+}

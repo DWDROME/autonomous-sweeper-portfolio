@@ -1,0 +1,57 @@
+{
+  "validation_level": "CARLA live input to Autoware NDT",
+  "initial_pose": {
+    "stamp_s": 5192.643779049,
+    "xyz": [
+      368.6258106867435,
+      -1.996138800065002,
+      -0.5493794538080692
+    ],
+    "yaw_deg": -3.6829486581575837,
+    "heading_track_m": 2.0,
+    "altitude_ref_m": 1.1162088364362717
+  },
+  "frames": 877,
+  "accepted": 876,
+  "accepted_rate": 0.9988597491448119,
+  "wall_s": {
+    "mean": 0.03803113481893226,
+    "p50": 0.03741645207628608,
+    "p95": 0.04096384914591908,
+    "max": 0.51965022389777
+  },
+  "errors": {
+    "longitudinal_m": {
+      "bias": 0.002013951535214171,
+      "p50": 0.02754097767572008,
+      "p95": 0.07791639537127922,
+      "max": 0.2721252999161049
+    },
+    "lateral_m": {
+      "bias": -0.012337527662554516,
+      "p50": 0.04077369285044144,
+      "p95": 0.06688216487574067,
+      "max": 0.08070400438915823
+    },
+    "heading_deg": {
+      "bias": 0.016808437622165915,
+      "p50": 0.0353657813268352,
+      "p95": 0.1366189074677374,
+      "max": 3.7155109140169693
+    }
+  },
+  "inputs": {
+    "session": "<local>/CARLA/basemap/20260915-01/online01",
+    "basemap": "<local>/CARLA/basemap/20260915-01/long01/basemap-v1",
+    "map_sha256": "952cae5c05dbe66111a0b8f9da291ec8e6aaa70c5623ca4b7fdda8b755041663"
+  },
+  "truth_scope": "read after localization, by score() only",
+  "live": {
+    "frames_while_collecting": 876,
+    "frame_file_age_wall_s": {
+      "p50": 0.054763078689575195,
+      "p95": 0.06701183319091797,
+      "max": 0.8304784297943115
+    }
+  }
+}

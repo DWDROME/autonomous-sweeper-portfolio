@@ -1,0 +1,65 @@
+{
+  "passed": true,
+  "replay": [
+    {
+      "name": "empty-full",
+      "passed": true,
+      "pose_samples": 221,
+      "different_fields": []
+    },
+    {
+      "name": "litter-cancel",
+      "passed": true,
+      "pose_samples": 167,
+      "different_fields": []
+    },
+    {
+      "name": "litter-reclean",
+      "passed": true,
+      "pose_samples": 319,
+      "different_fields": []
+    }
+  ],
+  "execution": [
+    {
+      "name": "empty-full",
+      "sampled_duration_s": 26.200000390410423,
+      "stop_dwell_s": 2.1000000312924385,
+      "work_s": 16.8,
+      "transit_s": 1.4,
+      "unknown_brush_s": 0.0,
+      "stationary_s": 8.0,
+      "turning_subset_s": 0.0
+    },
+    {
+      "name": "litter-cancel",
+      "sampled_duration_s": 19.30000028759241,
+      "stop_dwell_s": 1.3000000193715096,
+      "work_s": 15.0,
+      "transit_s": 0.2,
+      "unknown_brush_s": 0.0,
+      "stationary_s": 4.1,
+      "turning_subset_s": 0.0
+    },
+    {
+      "name": "litter-reclean",
+      "sampled_duration_s": 35.400000527501106,
+      "stop_dwell_s": 1.600000023841858,
+      "work_s": 28.7,
+      "transit_s": 0.7,
+      "unknown_brush_s": 0.0,
+      "stationary_s": 6.0,
+      "turning_subset_s": 0.0
+    }
+  ],
+  "accepted_observation_packets": 157,
+  "observation_hashes_match": true,
+  "moved_target_endpoint_change_m": 0.9999712724768893,
+  "notes": "Times partition sampled motion by logical brush state; turning (>0.05 rad/s) is a moving subset.",
+  "inputs": {
+    "loop-trace.jsonl": "9704e99a45e38aac1e7b2e29aa52719eee443e178ac3cd3cb1bf1f530ccb1a3c",
+    "truth.jsonl": "9557badf925e0e43820ded15a6fb3b65d26afeb531e82ae82f23feb5154dedf8",
+    "cases.json": "a62b31afee9a5533c34163c14d12d8b3fd6e82adc75e599103dd937cfd1e9b1d",
+    "observations.jsonl": "5b259a926a64beff0847f9f4a7a822d99c6100a643c9a69798e734073a9f0445"
+  }
+}
