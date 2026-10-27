@@ -47,4 +47,4 @@ OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 python -s -B simulation/carla-autoware/
 
 `src/perception/local_world` 的空间证据实现还使用 SciPy，Numba 为可选加速。`src/perception/heal` 的图像头使用 PyTorch；完整 `SharedPerception` 需原 HEAL 实例、权重与输入。`reference/offline_coverage` 为冻结 4WS 参考源码，原生 Fields2Cover 与覆盖评价器在原实验环境管理。
 
-`provenance.json` 记录选定文件的来源和 SHA-256；`SHA256SUMS` 覆盖最终展示包文件。`validation.json` 区分本次重新运行的检查与历史实验。
+`provenance.json` 记录选定文件的来源和 SHA-256；`SHA256SUMS` 保留 2026-10-04 展示包发布时的清单。后续 README、说明文档和新增报告插图不属于该历史清单的当前版本。`validation.json` 区分该次发布的检查与历史实验。
